@@ -57,6 +57,9 @@ export default function Navbar(props) {
           </div>
         </div>
       </nav>
+  
+   
+      <div className="separator"></div>
     </div>
   );
 }

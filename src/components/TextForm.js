@@ -4,6 +4,15 @@ import React, { useState } from "react";
 
 export default function TextForm(props) {
 
+  const handlePaste = (event) => {
+    const clipboardData = navigator.clipboard;
+    if (clipboardData && clipboardData.readText) {
+    }
+      clipboardData.readText().then(text => {
+        setText(text);
+      })
+    };
+
   const handleLowClick = (event) => {
     console.log("lowercase was clicked text => " + text);
     let newText = text.toLowerCase();
@@ -23,7 +32,7 @@ export default function TextForm(props) {
   const handleOnCopy = (event) => {
     console.log("text copied => " + text);
     navigator.clipboard.writeText(text);
-    props.showAlert("Text Copied", "success");        // Adding Alert from App.js to here
+    props.showAlert("Text Copied ");        // Adding Alert from App.js to here
   };
   const handleSpace = (event) => {
     console.log("space");
@@ -100,19 +109,32 @@ export default function TextForm(props) {
         style={{ color: props.mode === "dark" ? "white" : "black" }}
       >
         <h1>{props.heading}</h1>
+        
         <div className="mb-3">
           <textarea
             className="form-control"
             value={text}
             onChange={handleOnChange}
             style={{
-              backgroundColor: props.mode === "dark" ? "grey" : "white",
+              backgroundColor: props.mode === "dark" ? "#2a4c88" : "white",
               fontSize: "26px",
+              color: props.mode === "dark" ? "white" : "black",
             }}
             id="myBox"
             rows="6"
-            placeholder=" Input text here"
-          ></textarea>
+            placeholder={
+              'Your text goes here:\n' +
+              'Count Words, Characters,\n' +
+              'Convert case, and Replace'
+            }
+                    ></textarea>
+            <button
+            type="button"
+            className="btn btn-primary mt-4 mx-2"
+            onClick={handlePaste}
+          >
+           Paste
+          </button>
           <button
             type="button"
             className="btn btn-primary mt-4 mx-2"
@@ -128,19 +150,20 @@ export default function TextForm(props) {
             LowerCase
           </button>
           {/* <button type="button" className="btn btn-primary mt-4 mx-2"  onClick={convertToBold}>Bold</button> */}
-          <button
-            type="button"
-            className="btn btn-success mt-4 mx-2"
-            onClick={handleOnCopy}
-          >
-            Copy text
-          </button>
+          
           <button
             type="button"
             className="btn btn-primary mt-4 mx-2"
             onClick={handleSpace}
           >
             Remove Spaces
+          </button>
+          <button
+            type="button"
+            className="btn btn-success mt-4 mx-2"
+            onClick={handleOnCopy}
+          >
+            Copy text
           </button>
           <button
             type="button"
@@ -162,9 +185,11 @@ export default function TextForm(props) {
                     <input
                       type="text"
                       className="form-control"
+                      placeholder="word to be replaced"
                       style={{
-                        backgroundColor: props.mode === "dark" ? "grey" : "white",
+                        backgroundColor: props.mode === "dark" ? "#2a4c88" : "white",
                         fontSize: "26px",
+                        color: props.mode === "dark" ? "white" : "black",
                       }}
                       id="searchWord"
                       value={searchWord}
@@ -181,9 +206,11 @@ export default function TextForm(props) {
                     <input
                       type="text"
                       className="form-control"
+                      placeholder="new word"
                       style={{
-                        backgroundColor: props.mode === "dark" ? "grey" : "white",
+                        backgroundColor: props.mode === "dark" ? "#2a4c88" : "white",
                         fontSize: "26px",
+                        color: props.mode === "dark" ? "white" : "black",
                       }}
                       id="replaceWord"
                       value={replaceWord}

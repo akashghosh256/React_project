@@ -1,4 +1,4 @@
-// rfce
+// rfce +(tab)   to create a functional component
 
 import React, { useState } from "react";
 import "./App.css";
@@ -35,10 +35,10 @@ function App() {
     if (mode === "light") {
       setMode("dark");
       document.body.style.backgroundColor = "#042743";
-      showAlert("Dark mode has been enabled", "success");
+      showAlert("Dark mode has been enabled");
       document.title = "TextUtils - Dark Mode";  // tp change the title of the page dynamically not required everytime used in facebook for
       // showing the number of notifications
-
+      
 
       // creating ads like bloopers in the title
       // no need just for fun
@@ -57,7 +57,7 @@ function App() {
     else {
       setMode("light");
       document.body.style.backgroundColor = "white";
-      showAlert("Light mode has been enabled", "success");
+      showAlert("Light mode has been enabled");
       document.title = "TextUtils - Light Mode";
     }
   };
@@ -93,17 +93,17 @@ function App() {
           <Route
             path="/"
             element={<>
-              <Navbar title="hi" mode={mode} toggleMode={toggleMode} />
+              <Navbar title="WordPlaYer" mode={mode} toggleMode={toggleMode} />
                 <Alert alert={alert}/>
                 <div className="container">
-                  <TextForm heading="Enter text here" mode={mode} showAlert={showAlert} />
+                  <TextForm heading="WordPlaYer: Your Text Helper " mode={mode} showAlert={showAlert} />
                 </div>
          </> } />
           <Route path="/about" element={<>
-              <Navbar title="welcome" mode={mode} toggleMode={toggleMode} />
+              <Navbar title="WordPlaYer" mode={mode} toggleMode={toggleMode} />
                 <Alert alert={alert}/>
-                <div className="container">
-                  <About/>
+                <div className="container"  >
+                  <About mode={mode} />
                 </div>
          </> } />
           <Route path="*" element={<h1>404 Not Found</h1>} />

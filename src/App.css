@@ -1,3 +1,22 @@
-.active{
-  color : red;
+.navbar-brand{
+   color : red;  /* setting color of the title or name of the website */
 }
+
+/* it is for setting the position of the X close button in the alert */
+.btn-close {
+  position: relative;
+  right: -10px;
+} 
+
+.separator {
+  height: 1px;
+  background-color: #000;
+  margin: 0;
+}
+
+
+
+.form-control{
+border-width: 3px;
+}
+
