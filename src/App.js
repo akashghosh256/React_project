@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import TextForm from "./components/TextForm";
 import  Alert from "./components/Alert";
 import About from "./components/About";
-import {NavLink} from "react-router-dom";
+// import {NavLink} from "react-router-dom";
 
 
 // Using react router dom to create a single page application 

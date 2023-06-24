@@ -244,12 +244,12 @@ export default function TextForm(props) {
         <h2>Your text summary</h2>
         {/* <p>{text.split("")[1] ===""? 0:text.split(" ").length}  words and {text.length} characters</p> */}
         {/* <p>{countWords(text)}  words and {text.length} characters</p> */}
-        <p>
+        <h3>
           {countWordsAndCharacters(text)[0]} words and{" "}
           {countWordsAndCharacters(text)[1]} characters
-        </p>
+        </h3>
 
-        <p>{countWordsAndCharacters(text)[2]} Minutes read</p>
+        <h3>{countWordsAndCharacters(text)[2]} Minutes read</h3>
         {/* <h2>Preview</h2>
     <p>{text}</p> */}
       </div>
