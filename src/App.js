@@ -1,24 +1,116 @@
-import logo from './logo.svg';
-import './App.css';
+// rfce
 
+import React, { useState } from "react";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import TextForm from "./components/TextForm";
+import  Alert from "./components/Alert";
+import About from "./components/About";
+import {NavLink} from "react-router-dom";
+
+
+// Using react router dom to create a single page application 
+// npm install react-router-dom
+//import { BrowserRouter as Router, Switch, Route , link } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
+  const [mode, setMode] = useState("light");
+  const [alert, setAlert] = useState(null);
+
+  const showAlert = (message, type) => {
+    setAlert({
+      msg : message,
+      type : type,
+
+    })
+
+    // if we dont  setTimeout function then the alert will be shown only one time
+    
+    setTimeout(() => {
+      setAlert(null);
+    },1200);
+  }
+
+  const toggleMode = () => {
+    if (mode === "light") {
+      setMode("dark");
+      document.body.style.backgroundColor = "#042743";
+      showAlert("Dark mode has been enabled", "success");
+      document.title = "TextUtils - Dark Mode";  // tp change the title of the page dynamically not required everytime used in facebook for
+      // showing the number of notifications
+
+
+      // creating ads like bloopers in the title
+      // no need just for fun
+
+      // setInterval(() =>{
+      //   document.title = "TextUtils is amazing";
+      // }, 2000);
+
+      // setInterval(() =>{
+      //   document.title = "Install TextUtils now";
+      // }, 1500);
+
+
+
+    } 
+    else {
+      setMode("light");
+      document.body.style.backgroundColor = "white";
+      showAlert("Light mode has been enabled", "success");
+      document.title = "TextUtils - Light Mode";
+    }
+  };
+
+//  This is nested routing in react, after visiting home then only we can visit about page
+//  also used  for shared layout 
+
+//<Route path="/"
+//   element={<>
+//     <Navbar title="hi" mode={mode} toggleMode={toggleMode} />
+//       <Alert alert={alert}/>
+//       <div className="container">
+//         <TextForm heading="Enter text here" mode={mode} showAlert={showAlert} />
+//       </div>
+// </> } >
+// <Route path="/about" element={<>
+//     <Navbar title="welcome" mode={mode} toggleMode={toggleMode} />
+//       <Alert alert={alert}/>
+//       <div className="container">
+//         <About/>
+//       </div>
+// </> } />
+// <Route path="*" element={<h1>404 Not Found</h1>} />
+// </Routes>
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    
+<BrowserRouter>
+     
+     <Routes>
+          
+          <Route
+            path="/"
+            element={<>
+              <Navbar title="hi" mode={mode} toggleMode={toggleMode} />
+                <Alert alert={alert}/>
+                <div className="container">
+                  <TextForm heading="Enter text here" mode={mode} showAlert={showAlert} />
+                </div>
+         </> } />
+          <Route path="/about" element={<>
+              <Navbar title="welcome" mode={mode} toggleMode={toggleMode} />
+                <Alert alert={alert}/>
+                <div className="container">
+                  <About/>
+                </div>
+         </> } />
+          <Route path="*" element={<h1>404 Not Found</h1>} />
+
+        </Routes>
+  
+    </BrowserRouter>
   );
 }
 
