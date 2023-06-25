@@ -75,7 +75,8 @@ export default function TextForm(props) {
 
 
 
-  const handleReplace = () => {
+  const handleReplace = (event) => {
+    setOriginalString(text);
     const replacedString = originalString.replace(
       new RegExp(searchWord, "gi"),  // new RegExp(searchWord, "gi") constructs a regular expression 
       //object using the RegExp constructor. The searchWord is passed as the pattern to search for, and the 
@@ -121,17 +122,22 @@ export default function TextForm(props) {
               color: props.mode === "dark" ? "white" : "black",
             }}
             id="myBox"
+          
             rows="6"
             placeholder={
               'Your text goes here:\n' +
               'Count Words, Characters,\n' +
               'Convert case, and Replace'
             }
-                    ></textarea>
+             ></textarea>
+
+{/* -------------------------------------------------buttons--------------------------------------------------------------------------- */}
+
             <button
             type="button"
             className="btn btn-primary mt-4 mx-2"
             onClick={handlePaste}
+
           >
            Paste
           </button>
