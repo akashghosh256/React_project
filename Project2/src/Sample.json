@@ -1,0 +1,1316 @@
+{
+    "status": "ok",
+    "totalResults": 188,
+    -"articles": [
+    -{
+    -"source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Meta: Facebook owner launches virtual reality subscription service",
+    "description": "It is the latest attempt by the parent company of Instagram to make its VR business profitable.",
+    "url": "https://www.bbc.co.uk/news/business-66027073",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6F73/production/_130213582_metavr.jpg",
+    "publishedAt": "2023-06-27T03:42:37Z",
+    "content": "Facebook owner Meta has launched a virtual reality (VR) subscription service as it tries to make that part of its business profitable.\r\nMeta says paying users will get access to two new games a month… [+1579 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "tips@androidcentral.com (Vishnu Sarangapurkar)",
+    "title": "Following the death of Stadia, Google is reportedly testing online gaming on YouTube",
+    "description": "YouTube already provides generous gaming content through videos, tutorials, and live streaming of events. The platform could introduce another form of gaming.",
+    "url": "https://www.androidcentral.com/apps-software/youtube-tests-online-gaming",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/53Hee9M7ttmhbNwJuiddgP-1200-80.jpg",
+    "publishedAt": "2023-06-27T01:33:21Z",
+    "content": "<ul><li>\"Playables\" is an online gaming feature that we may soon see on YouTube.</li><li>The company is reportedly inviting its employees to test the new feature.</li><li>Users can stream games via t… [+2070 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Mark Sweney",
+    "title": "Britons will soon spend more on streaming than TV, analysts say",
+    "description": "UK households forecast to spend £4.2bn on Netflix and other services by 2025, overtaking TV packagesWithin two years the streaming revolution will claim a new milestone when Britons spend more on services such as Netflix and Disney+ than they do on traditiona…",
+    "url": "https://www.theguardian.com/media/2023/jun/27/britons-will-soon-spend-more-on-streaming-than-tv-analysts-say",
+    "urlToImage": "https://i.guim.co.uk/img/media/cb02ac715b50cd390b453ee55777eeae733cce9a/584_0_4391_2637/master/4391.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=362c832739ca9a4b392bf5be0240cd0f",
+    "publishedAt": "2023-06-27T04:00:08Z",
+    "content": "Within two years the streaming revolution will claim a new milestone when Britons spend more on services such as Netflix and Disney+ than they do on traditional paid TV packages, according to a repor… [+2635 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Sophie Elmhirst",
+    "title": "‘People are like, Wow!’: the man trying to make condoms sexy",
+    "description": "It has been said that condoms share marketing characteristics with napalm and funerals. But it is Ben Wilson’s mission to make us believe they are key to human happinessIt is important to Ben Wilson, the man in charge of the condom brand Durex, that he chews …",
+    "url": "https://www.theguardian.com/society/2023/jun/27/man-who-wants-to-make-condoms-sexy-durex",
+    "urlToImage": "https://i.guim.co.uk/img/media/c618c8cf1db37814dff72f1ab409f0e93f87108c/1_0_6504_3904/master/6504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7da5445815c34679786baff6977bd9ce",
+    "publishedAt": "2023-06-27T04:00:07Z",
+    "content": "It is important to Ben Wilson, the man in charge of the condom brand Durex, that he chews the condoms he sells. He likes to consider their flavour, to know the sensory experience of a customer engage… [+33257 chars]"
+    },
+    -{
+    -"source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Huileng Tan",
+    "title": "3 major companies trying to move supply chains out of China, and how they're faring in their attempts to move away from the factory of the world",
+    "description": "Apple, chip giant TSMC, and Japanese automaker Mazda are three companies shifting their supply chains to hedge against overreliance on China.",
+    "url": "https://www.businessinsider.com/companies-leaving-china-diversifying-supply-chains-apple-tsmc-mazda-2023-6",
+    "urlToImage": "https://i.insider.com/649193cf65b9ce0018a426a0?width=1200&format=jpeg",
+    "publishedAt": "2023-06-27T01:08:00Z",
+    "content": "An employee assembles electric scooters for export at a factory the Jiangsu province of China.VCG/Getty Images\r\n<ul>\n<li>China has been the factory of the world for over four decades.</li>\n<li>But no… [+5262 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Connections between Apple Car and a mysterious Arizona facility deepen with new evidence",
+    "description": "A mysterious Arizona vehicle proving ground seems to belong to Apple for autonomous vehicle testing, and new evidence may prove it.A vehicle testing facility in ArizonaRumors and countless patents show Apple is working on an autonomous vehicle that's been dub…",
+    "url": "https://appleinsider.com/articles/23/06/27/connections-between-apple-car-and-a-mysterious-arizona-facility-deepen-with-new-evidence",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/55122-111876-Arizona-xl.jpg",
+    "publishedAt": "2023-06-27T00:33:25Z",
+    "content": "A vehicle testing facility in Arizona\r\nA mysterious Arizona vehicle proving ground seems to belong to Apple for autonomous vehicle testing, and new evidence may prove it.\r\nRumors and countless patent… [+1763 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "三浦一紀",
+    "title": "関西圏のみなさまー！ ICOCAがApple Payに対応しましたよー!!",
+    "description": "Image:JR西日本みんな使おうぜ。今年4月に、JR西日本が発表していた、ICOCA（イコカ）のApplePay対応。本日6月27日よりサービスが開始しました。iPhoneやAppleWatchの「ウォレット」アプリでICOCAの新規発行や、利用中のICOCAを登録することで、電車の改札やバスでの支払い、お買い物などを「ピッ」っとタッチだけで決済できるようになります。エクスプレスカードに登録すれ",
+    "url": "https://www.gizmodo.jp/2023/06/icoca-apple-pay.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/27/230627icoca.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-06-27T03:45:00Z",
+    "content": "4JRICOCAApple Pay627\r\niPhoneApple WatchICOCAICOCA\r\niPhoneApple Watch\r\nSuicaSuicaICOCA\r\niPhoneiOS 16iPhone 8Apple WatchwatchOS 8.7.1Apple Watch Series 3\r\nSource: JR via .com"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Vitt",
+    "title": "10 objets Tech à emporter en vacances avec vous",
+    "description": "C’est les vacances ! Il est temps de préparer les valises pour le grand départ. Forcément dans notre monde ultra-connecté, les objets tech font aussi partie du voyage.",
+    "url": "https://www.presse-citron.net/10-objets-tech-a-emporter-en-vacances-avec-vous/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/06/objets-tech-vacances.jpg",
+    "publishedAt": "2023-06-27T04:30:50Z",
+    "content": "Les objets Tech font partie intégrante de notre quotidien, et cela vaut aussi en vacances. Pour partager ses plus beaux moments sur les réseaux sociaux, écouter de la musique ou rester connecté au mo… [+7275 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "Apple TV+ Drops First Trailer for Stephen Curry Documentary Film \"Underrated\"",
+    "description": "Following its showing at Sundance Film Festival, Apple TV now releases the official trailer for Underrated, a feature documentary capturing the coming-of-age story of 4x NBA Champion, 2x NBA MVP, 9x NBA All-Star, and all-time three-point field gold leader, St…",
+    "url": "https://hypebeast.com/2023/6/first-trailer-for-stephen-curry-documentary-underrated-info",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F06%2Ffirst-trailer-for-stephen-curry-documentary-underrated-info-tw1.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-06-27T04:37:33Z",
+    "content": "Following its showing at Sundance Film Festival, Apple TV now releases the official trailer for Underrated, a feature documentary capturing the coming-of-age story of 4x NBA Champion, 2x NBA MVP, 9x … [+719 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+    "title": "Ho Ho Ho - why I'm starting iPad Christmas shopping on Prime Day",
+    "description": "Times like Prime Day is a great time to look into gifts for Christmas and other events - which is what I'm doing now.",
+    "url": "https://www.imore.com/ipad/ho-ho-ho-why-im-starting-ipad-christmas-shopping-on-prime-day",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/2KXqAYgCkmqeZEGXyMedUd-1200-80.png",
+    "publishedAt": "2023-06-27T04:01:00Z",
+    "content": "Thanks to Prime Day starting on July 11, I'm hoping that an iPad is going to see a great discount - and if it does, it'll be the first thing I buy as a Christmas gift.\r\nWhile I'm torn between buying … [+1327 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "小口貴宏",
+    "title": "「モバイルICOCA」ついにiPhone対応--利用開始方法は？",
+    "description": "西日本旅客鉄道（JR西日本）は6月27日、IC乗車券「ICOCA」の「Apple Pay」対応を開始した。モバイルICOCAサービスを「iPhone」と「Apple Watch」で利用できるようになった。",
+    "url": "https://japan.cnet.com/article/35205751/",
+    "urlToImage": "https://japan.cnet.com/storage/2023/06/27/b82f9622d6532f02dc9989336f06797f/t/640/480/d/355758072_250022647732847_324152635203818392_n.jpeg",
+    "publishedAt": "2023-06-27T00:05:00Z",
+    "content": "JR627ICICOCAApple PayICOCAiPhoneApple Watch\r\nApple PayICOCAiOS 16.0iPhone 8watchOS 8.7.1Apple Watch Series 3\r\niPhoneICICOCAICOCA\r\nICOCAJRWESTERICOCAWESTER\r\nJ-WESTICOCAWESTER3%\r\nICOCAAndroidiPhone / A… [+18 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Playpcesor.com"
+    },
+    "author": "Esor Huang",
+    "title": "追蹤記錄自己習慣中的這三個要素，比養成新習慣更重要",
+    "description": "「規劃」一個新的習慣、新的目標，通常簡單沒有壓力，只是規劃完成後，真正要執行目標、養成習慣的過程，卻還是遇到許多窒礙難行的困境， 結果習慣的養成、新目標的推進，忽然沒有像是規劃時那麼簡單了，甚至因為遲遲無法前進而開始變成新的壓力。",
+    "url": "https://www.playpcesor.com/2023/06/blog-post_27.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEidorg3ozIiMsDyw7eXV19JQNRzVuiu1V1XyGuzByEkxTrgf3JHe6g4QOUjkDzAa9sLHzOv1kLI92cKCMe5d2Q-4JJAZhAYOkLzXkxsrudxZ9YZ3lLo2sretWOvedevbCAkfFWFnaqIX00HYcSni4UQzAP5iu7EufQeGuVd88ED1yNxhWth0G9-3A=w1200-h630-p-k-no-nu",
+    "publishedAt": "2023-06-27T03:48:00Z",
+    "content": "「規劃」一個新的習慣、新的目標，通常簡單沒有壓力，只是規劃完成後，真正要執行目標、養成習慣的過程，卻還是遇到許多窒礙難行的困境，結果習慣的養成、新目標的推進，忽然沒有像是規劃時那麼簡單了，甚至因為遲遲無法前進而開始變成新的壓力。\r\n裡面或許有一個問題在於，人的行為在很大程度上是由我們的「固有習慣」驅動的。也就是說，我們的大腦內往往有許多已經根深蒂固的習慣模式，我們的日常行為中也有很多自己不一定有… [+4259 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "黄智健",
+    "title": "苹果 Vision Pro 路线图曝光，将和 iPhone 越来越像",
+    "description": "25000 元的 Vision Pro，真的不贵#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1553780",
+    "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2023/06/apple-AR-00-45.jpg",
+    "publishedAt": "2023-06-27T03:29:46Z",
+    "content": "Vision Pro WWDC One More Thing\r\nVision Pro 3499 \r\n Mark Gurman Vision Pro iPhone \r\nMark Gurman Vision Pro Vision Pro \r\n1. Vision Pro 2. Vision Pro 3. Vision Pro 4. Vision Pro 5. Vision Pro 2024 5 6. … [+964 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "谢东成",
+    "title": "试驾实测吉利银河 L7 纯电续航和亏电油耗，真的全域不失速？",
+    "description": "1.5T 四缸混动发动机只需加 92 号汽油，香吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1553610",
+    "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2023/06/DSC01062.jpg",
+    "publishedAt": "2023-06-27T03:51:15Z",
+    "content": "2022 \r\nL7\r\n L7 \r\nSUV L7 8848\r\n L7 PHEV Plus DM-i\r\n L7 \r\nF \r\nL7 PHEV \r\nL7 \r\n logo\r\n 3 30% \r\nL7 SUV 4700mm 1905mm 1685mm 2785mm SUV \r\nL7 \r\nL7 6 \r\nL7 \r\nL7 \r\nL7 GEELYL7\r\n N OS \r\n L7 \r\n10.25 13.2 16.2 \r\n … [+496 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Kristina Monllos",
+    "title": "Marketing Briefing: In uncertain economic times, marketers are getting back to the ‘fundamentals’",
+    "description": "The focus on basics is likely a symptom of the current economy, according to agency execs and marketers, who say that when times are tough marketers are not only made to do more with less but rely on what’s proven.",
+    "url": "http://digiday.com/marketing/marketing-briefing-in-uncertain-economic-times-marketers-are-getting-back-to-the-fundamentals/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/05/Outbrain-BCA-01-01-1-4-1.png",
+    "publishedAt": "2023-06-27T04:01:00Z",
+    "content": "The focus on basics is likely a symptom of the current economy, according to agency execs and marketers, who say that when times are tough marketers are not only made to do more with less but rely on… [+4636 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "「ICOCA」本日からApple Pay対応、iPhoneで利用可能に",
+    "description": "JR西日本は、ICカード乗車券「ICOCA」について、本日27日からApple Payへ対応した。これにより、iPhoneやApple Watchで利用できるようになった。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1511776.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1511/776/01.jpg",
+    "publishedAt": "2023-06-27T03:47:33Z",
+    "content": "JRICICOCA27Apple PayiPhoneApple Watch \r\n iOS 16.0iPhoneiPhone 8watchOS 8.7.1Apple WatchApple Watch Series \r\n iPhoneApple WatchICOCA \r\n ICOCAICOCASMART ICOCASMART ICOCAJRICOCAICOCA \r\n J-WESTICOCAWESTE… [+1 chars]"
+    },
+    -{
+    -"source": {
+    "id": "el-mundo",
+    "name": "El Mundo"
+    },
+    "author": "JAVIER ATTARD, aurora molina",
+    "title": "Las claves de la rebelión de Wagner: \"Estamos ante el principio del fin de Putin\"",
+    "description": "¿Qué es exactamente el grupo Wagner? ¿Qué ha pasado para que Prigozhin y sus hombres desafíen a Putin? ¿Por qué se frenó el golpe? ¿Puede cambiar la guerra? ¿Cuál es la...",
+    "url": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2023/06/27/6499d80d21efa0dd2b8b45a7.html",
+    "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d3e5df5758f5109cf62a469f92f193fd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/26/16878028188930.jpg",
+    "publishedAt": "2023-06-27T01:10:23Z",
+    "content": "¿Qué es exactamente el grupo Wagner? ¿Qué ha pasado para que Prigozhin y sus hombres desafíen a Putin? ¿Por qué se frenó el golpe? ¿Puede cambiar la guerra? ¿Cuál es la principal lección que nos deja… [+522 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Laurin Meyer, Lena Zimmermann",
+    "title": "Absichern gegen die Crash-Gefahr und die Macht der Werbung",
+    "description": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Lena Zimmermann und Laurin Meyer über den Rückschlag für Rüstungsaktien, fette Verluste bei Pfizer und schlechte Stimmung bei Carnival.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article246081900/Boersen-Podcast-Crash-Gefahr-Mit-diesen-Produkten-koennen-sich-Anleger-absichern.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile245017578/1431359287-ci16x9-w1200/DWO-Podcast-Teaser-AllesAufAktien-zimmermann-meyer.jpg",
+    "publishedAt": "2023-06-27T03:07:58Z",
+    "content": "Außerdem geht es um Rheinmetall, Hensoldt, Thales, BAE Systems, Leonardo, Siemens Energy, Covestro, Tesla, Goldman Sachs, Barclays, Morgan Stanley, AB Inbev, Starbucks, Disney, Adidas, Open End Turbo… [+274 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "„Die AfD schürt ein Klima, das dem Standort Deutschland schadet“",
+    "description": "Bundesinnenministerin Nancy Faeser warnt nach dem AfD-Sieg in Sonnenberg vor negativen Folgen für den Wirtschaftsstandort Deutschland. Die Partei werde „zum Chancen-Tod“ für Regionen, die einen Aufschwung bräuchten.",
+    "url": "https://www.welt.de/politik/deutschland/article246081812/Faeser-AfD-schuert-ein-Klima-das-dem-Standort-Deutschland-schadet.html",
+    "urlToImage": "https://img.welt.de/img/bildergalerien/mobile246081814/1411357947-ci16x9-w1200/Bundesinnenministerin-Faeser-in-Tunesien.jpg",
+    "publishedAt": "2023-06-27T00:00:41Z",
+    "content": "Nach der Wahl des bundesweit ersten AfD-Landrats in Thüringen hat Bundesinnenministerin Nancy Faeser eine klare Abgrenzung gegenüber der Partei gefordert. Es darf keinerlei Anbiederung und keinerlei … [+1838 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "„Das sind geheime Informationen“ – Tonaufnahme von Trump veröffentlicht",
+    "description": "Donald Trump behauptet, nicht gewusst zu haben, dass er Geheimdokumente in seinem Privatanwesen aufbewahrte. Nun hat CNN eine Tonaufnahme veröffentlicht, über die zuvor bereits berichtet worden war. Darin prahlt er damit, vertrauliche Papiere zu besitzen.",
+    "url": "https://www.welt.de/politik/ausland/article246082036/Donald-Trump-Tonaufnahme-zu-Dokumentenaffaere-veroeffentlicht.html",
+    "urlToImage": "https://img.welt.de/img/politik/ausland/mobile246082038/2411353587-ci16x9-w1200/Former-U-S-President-Donald-Trump-attends-the-Oakland-County-GOP.jpg",
+    "publishedAt": "2023-06-27T03:53:41Z",
+    "content": "Der US-Sender CNN hat eine Tonaufnahme veröffentlicht, die in der Dokumentenaffäre um Ex-Präsident Donald Trump eine zentrale Rolle spielt. Als Präsident hätte ich sie freigeben können, jetzt kann ic… [+1870 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "ARD-Chefredakteur reagiert auf Kritik an Berichterstattung über Wagner-Aufstand",
+    "description": "Die ARD war dafür kritisiert worden, zu spät und zu wenig über den Aufstand der Gruppe Wagner berichtet zu haben. Chefredakteur Oliver Köhr weist dies zurück. Ein Vollprogramm wie das Erste wechsele „nicht bei jeder Nachricht zu Breaking News“.",
+    "url": "https://www.welt.de/kultur/medien/article246081878/ARD-Chefredakteur-verteidigt-Berichterstattung-ueber-Wagner-Aufstand.html",
+    "urlToImage": "https://img.welt.de/img/kultur/medien/mobile246081880/2321351547-ci16x9-w1200/266684764.jpg",
+    "publishedAt": "2023-06-27T01:16:29Z",
+    "content": "ARD-Chefredakteur Oliver Köhr sieht keine Fehler bei der Berichterstattung seiner Sender über den Aufstand der russischen Söldnergruppe Wagner am vergangenen Samstag. Das Problem war: Was an gesicher… [+1837 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Fstoppers"
+    },
+    "author": "Pete Coco",
+    "title": "A First Look at the Pixel Fold, Google's First Foldable Smartphone",
+    "description": "The Pixel Fold is the first foldable phone engineered by Google. I had a chance to preview this feature-packed productivity tool that is actually both a phone, and a tablet in one. In this review, I will discuss the Pixel Fold from a photographer’s perspectiv…",
+    "url": "https://fstoppers.com/reviews/first-look-pixel-fold-googles-first-foldable-smartphone-635350",
+    "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/06/dscf5063-1.jpg",
+    "publishedAt": "2023-06-27T01:44:24Z",
+    "content": "The Pixel Fold is the first foldable phone engineered by Google. I had a chance to preview this feature-packed productivity tool that is actually both a phone, and a tablet in one. In this review, I … [+9188 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ascii.jp"
+    },
+    "author": "ASCII",
+    "title": "ICOCAがiPhoneやApple Watchでの利用が可能に",
+    "description": "JR西日本は6月27日、同社が運用する非接触型のICカード乗車券「ICOCA」がアップルのモバイル決済サービス「Apple Pay」に対応したことを発表した。",
+    "url": "https://weekly.ascii.jp/elem/000/004/142/4142701/",
+    "urlToImage": "https://ascii.jp/img/2023/06/27/3560131/l/abf315eb61f42470.png",
+    "publishedAt": "2023-06-27T04:00:00Z",
+    "content": "JR627ICICOCAApple Pay\r\niPhoneApple WatchICOCA\r\nICOCAiPhone XSiPhone5\r\niOS 16.0iPhonewatch OS 8.7.1Apple Watch Series\r\nWESTER\r\nApple PayICOCAJ-WESTWESTER31.5\r\nApple PayICOCAiPhoneApple Watch\r\nICOCAiPh… [+46 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techradar",
+    "name": "TechRadar"
+    },
+    "author": "cesartechradar@gmail.com (Cesar Cadenas)",
+    "title": "Samsung updates its TVs and monitors to help those dealing with color blindness",
+    "description": "Rolling out to all of Samsung's 2023 models, SeeColors mode lets people tweak their display to something better suited to color vision impairment.",
+    "url": "https://www.techradar.com/computing/monitors/samsungs-updates-its-tvs-and-monitors-to-help-those-dealing-with-color-blindness",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6Aj8eGA2MN8A8cYZ6DGjZc-1200-80.jpg",
+    "publishedAt": "2023-06-27T05:00:59Z",
+    "content": "Samsung is currently rolling out a software update that will introduce a SeeColors mode to all of its 2023 TVs and monitors. \r\nThrough this new accessibility feature, the tech giant is adding “variou… [+2069 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Antonio Pequeño IV, Forbes Staff, \n Antonio Pequeño IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+    "title": "Jack Dorsey-Backed Damus Removed From App Store Over Bitcoin Tipping Dispute",
+    "description": "Apple followed through on threats from earlier in the month to remove Damus from its App Store.",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/26/jack-dorsey-backed-damus-removed-from-app-store-over-bitcoin-tipping-dispute/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/649a28bc6433ee26b8daedd0/0x0.jpg?format=jpg&crop=4196,2511,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2023-06-27T00:11:34Z",
+    "content": "Damus, a decentralized social networking app backed by Twitter co-founder Jack Dorsey featuring bitcoin transaction features, will be removed from the App Store over non-compliance of Apples payment … [+2275 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Mark Sparrow, Senior Contributor, \n Mark Sparrow, Senior Contributor\n https://www.forbes.com/sites/marksparrow/",
+    "title": "Obsbot’s New Tiny 2 Webcam Has A 4K Sensor And AI-Powered Tracking",
+    "description": "If your laptop's webcam is spoiling your public image, this clever AI-powered Obsbot Tiny 2 webcam is a great upgrade and offers 4K resolution and subject tracking.",
+    "url": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6496c94fb99540d4135d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2023-06-27T04:00:00Z",
+    "content": "The OBSBOT Tiny 2 is a 4K webcam mounted on a twin-axis gimbal that can automatically track the ... [+] subject. The Tiny 2 has a large CMOS sensor for better resolution and lower noise levels thanks… [+8134 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Cool3c.com"
+    },
+    "author": "癮特務",
+    "title": "Sharge Retro 67W 快充復古充電頭：致敬 Mac 始祖麥金塔電腦、駭客任務代碼矩陣！",
+    "description": "看到這個酷玩意，是否讓你腦中浮現許多復古 3C 產品？沒錯，Sharge Retro 67W 為市面上首款以 Apple 經典麥金塔為概念設計的充電頭，不但有許多向經典致敬的迷人細節，同時還兼具 67W 快充、輕巧好攜帶等實用性，是 3C 老玩家必收藏的充電插頭。 Sharge Retro 67W 快充復古充電頭：https://sharge.tw/cool3c 懷舊配色搭配復古手感、向劃時代傑作麥金塔致敬！ 現代人手邊總是有多樣 3C 產品，為了徹底擺脫電力焦慮的煩惱，大部份人都會隨身攜帶行動電源、或是能同時為…",
+    "url": "https://www.cool3c.com/article/195346",
+    "urlToImage": "https://sw.cool3c.com/user/108299/2023/058a2a57-95d4-4322-9b45-c4f66c05630d.jpg?fit=max&w=1400&q=80",
+    "publishedAt": "2023-06-27T04:00:00Z",
+    "content": "3C Sharge Retro 67W Apple 67W 3C \r\nSharge Retro 67W https://sharge.tw/cool3c\r\n3C 3C \r\nSharge Retro 67W Sharge Sharge Sharge 3C 100 40 Sharge Retro 67W Apple 3C \r\nSharge Retro 67W \r\n128Kz LED Logo\r\nSh… [+542 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Rodrigo Mozelli",
+    "title": "BMW: EV iX M60 virá para o Brasil; confira detalhes",
+    "description": "A linha BMWÂ iX chegou ao Brasil em 2022. Com a maior autonomia dentre todos os EVs Ã  venda no Brasil, o modelo ganha nova versÃ£o: o iX M60",
+    "url": "https://olhardigital.com.br/2023/06/26/carros-e-tecnologia/bmw-ev-ix-m60-vira-para-o-brasil-confira-detalhes/",
+    "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/06/bmw_ix_m60.jpg",
+    "publishedAt": "2023-06-27T00:24:52Z",
+    "content": "A linha BMWÂ iX chegou ao Brasil no inÃ­cio de 2022. Com a maior autonomia dentre todos os EVs Ã  venda no Brasil, o modelo ganha mais uma versÃ£o, desta vez com desempenho aprimorado.\r\nSendo homolog… [+7759 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "businessinsider.com",
+    "title": "3 major companies trying to move supply chains out of China, and how they're faring in their attempts to move away from the factory of the world",
+    "description": "An employee assembles electric scooters for export at a factory the Jiangsu province of China. VCG/Getty Images China has been the factory of the world for over four decades. But now, companies are now reassessing their reliance on the country. Apple, chip-gi…",
+    "url": "https://biztoc.com/x/3f82a673de781a1e",
+    "urlToImage": "https://c.biztoc.com/p/3f82a673de781a1e/s.webp",
+    "publishedAt": "2023-06-27T01:36:05Z",
+    "content": "An employee assembles electric scooters for export at a factory the Jiangsu province of China.VCG/Getty ImagesChina has been the factory of the world for over four decades.But now, companies are now … [+302 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Rogerebert.com"
+    },
+    "author": "Matt Fagerholm",
+    "title": "#461 June 27, 2023",
+    "description": null,
+    "url": "https://www.rogerebert.com/ebert-club/461-june-27-2023",
+    "urlToImage": null,
+    "publishedAt": "2023-06-27T05:01:00Z",
+    "content": "Matt writes: Last week, RogerEbert.com held its third annual Black Writers Week in honor of Juneteenth, featuring essential work from contributors Mack Bates, Al Chambles, Robert Daniels, Shawn Edwar… [+8202 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (vn_ninja), vn_ninja",
+    "title": "Biểu đồ: những hệ điều hành desktop phổ biến nhất thế giới từ năm 2003 đến 2022",
+    "description": "Trang Visualcapitalist đã tạo ra một biểu đồ hoạt hoạ cho thấy mức tăng và giảm thị phần của các hệ điều hành desktop phổ biến nhất trong khoảng thời gian từ tháng 5 năm 2003 đến tháng 6 2022. Mời anh em cùng xem:\n \n6006365\n \nĐó là đến tháng 6 năm…",
+    "url": "https://tinhte.vn/thread/bieu-do-nhung-he-dieu-hanh-desktop-pho-bien-nhat-the-gioi-tu-nam-2003-den-2022.3685764/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6477203_cover-Thi-Phan-He-Dieu-Hanh-Desktop-tinhte.jpg",
+    "publishedAt": "2023-06-27T00:31:46Z",
+    "content": "V trí th 2 cách rt xa là macOS ca Apple. Công ty có li nhun cao nht trên th gii tuy kim phn ln doanh thu t smartphone nhng vn ang to ra mt phân khúc nh vng chc trên th trng OS desktop. macOS t mc th … [+790 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "少数派编辑部",
+    "title": "派早报：哔哩哔哩将更换播放数据呈现方式等",
+    "description": "纽约两律师因使用 ChatGPT 生成的虚假案例而被处罚，暴雪旗下部分游戏因 DDoS 攻击而宕机等。查看全文",
+    "url": "https://sspai.com/post/80623",
+    "urlToImage": "https://cdn.sspai.com/2023/6/27/article/3f0d2a9e-d5d6-dac9-bedd-e47927b4a3db.png",
+    "publishedAt": "2023-06-27T00:46:20Z",
+    "content": "6 26 CEO B B \r\n6 26 2023 8 26 0.03 0.04 1000 \r\nChatGPT \r\n6 26 6 22 ChatGPT 6 AI 5000 \r\n DDoS \r\n IV DDoS Reddit Twitter DDoS \r\n GSMA Open Gateway \r\nGSMA MWC GSMA Open Gateway GSMA GSMA Open Gateway AP… [+417 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Tuanhtran), Tuanhtran",
+    "title": "Tính năng gọi SOS khẩn cấp qua vệ tinh trên iPhone 14 giúp cứu 1 người chấn thương khi đang leo núi",
+    "description": "Trên iPhone 14 có một tính năng mới mà Apple gọi là Emergency SOS via Satellite, cụ thể tính năng này sẽ giúp anh em gọi và đưa thông tin của mình đến những đội cứu hộ khi điện thoại anh em mất sóng hoặc mất kết nối hoàn toàn với mạng xã hội.",
+    "url": "https://tinhte.vn/thread/tinh-nang-goi-sos-khan-cap-qua-ve-tinh-tren-iphone-14-giup-cuu-1-nguoi-chan-thuong-khi-dang-leo-nui.3685829/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6477393_Cover-Tinh-nang-goi-SOS-iPhone-14-cuu-1-nguoi-tinhte-tuanhtran.jpg",
+    "publishedAt": "2023-06-27T02:10:36Z",
+    "content": "ây là dòng tweet ca nhân viên cu h Mike Leum:https://twitter.com/Resqman/status/1672729662777356288\r\nNgoài ra, lc lng Cnh sát Los Angeles cho bit ã có 3 v cu h c phát hin bi tính nng này trong nm nay… [+609 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Spidersweb.pl"
+    },
+    "author": "pgkrzywy@gmail.com (Piotr Grabiec)",
+    "title": "MacBook Air 15” (2023). Czy większy faktycznie znaczy lepszy? Recenzja",
+    "description": "Spędziłem dwa tygodnie z komputerem MacBook Air (2023) w wersji 15-calowej. Jak sprawdziła się ta maszyna z dużym ekranem, ale bez wiatraków?",
+    "url": "https://spidersweb.pl/2023/06/macbook-air-15-2023-recenzja.html",
+    "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2023/06/macbook-air-15-3-1.jpeg",
+    "publishedAt": "2023-06-27T02:44:00Z",
+    "content": "MacBook Air 15 zosta zaprezentowany podczas WWDC 2023 wraz z nowymi wersjami komputerów Mac Studio i Mac Pro. We wszystkich z nich Apple zdecydowa si umieci ukady Apple Silicon z linii M2, przy czym … [+553 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "Laura Bradley",
+    "title": "‘The Bachelorette’ Adds a New Twist: Undercover Brother",
+    "description": "Photo Illustration by Thomas Levinson/The Daily Beast/ABC/Getty\r\nThis post contains spoilers for the season premiere of The Bachelorette Season 20. Ladies, if your man isn’t doing backflips or serving you cider and donuts from his mom’s family farm... are you…",
+    "url": "https://www.thedailybeast.com/obsessed/the-bachelorette-adds-a-new-twist-undercover-brother",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1687837526/230626-bachelorette-tease_ou7xkl",
+    "publishedAt": "2023-06-27T03:42:41Z",
+    "content": "This post contains spoilers for the season premiere of The Bachelorette Season 20. \r\nLadies, if your man isnt doing backflips or serving you cider and donuts from his moms family farm... are you sure… [+4264 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Los Angeles Times"
+    },
+    "author": "Christi Carras",
+    "title": "Sangre y 'Guts': Todo lo que sabemos del segundo disco de Olivia Rodrigo",
+    "description": "Olivia Rodrigo ha revelado el título y la fecha de lanzamiento de su segundo álbum, 'Guts', así como detalles sobre su sencillo principal, 'Vampire'.",
+    "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2023-06-26/sangre-y-guts-todo-lo-que-sabemos-del-segundo-disco-de-olivia-rodrigo",
+    "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/62227a2/2147483647/strip/true/crop/3731x1959+0+1442/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2Ffd%2F8f9a08e041f48d55de5bedcbc14d%2For-standard-exp.jpg",
+    "publishedAt": "2023-06-27T01:51:17Z",
+    "content": "Si tuviste un déjà vu hoy, probablemente sea porque Olivia Rodrigo se está preparando para lanzar otro álbum.\r\nLa cantante de música pop reveló el lunes el título y la fecha de lanzamiento de su muy … [+2379 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Smhn.info"
+    },
+    "author": "會原",
+    "title": "au PAYアプリが「強制」アプデ。しないと利用不能に",
+    "description": "KDDIの決済アプリ「au PAY」は、2023年7月27日から順次、セキュリティ強化対策を行ったアップデートを強制的に実施すると発表しました。対象は、iOSでバージョン9.35.3未満、Androidでバージョン9.35.2未満のアプリを利用しているユーザーとなります。この強制...smhn.infoにアクセスすると、全文を読むことができます。",
+    "url": "https://smhn.info/202306-au-pay-update",
+    "urlToImage": "https://smhn.info/wp-content/uploads/2023/06/au-pay.png",
+    "publishedAt": "2023-06-27T01:38:01Z",
+    "content": "KDDIau PAY2023727\r\niOS9.35.3Android9.35.2\r\nau PAY\r\niOS11.0Android6.0OSau PAYOSau PAY \r\nOSau PAY Apple PayiPhoneauau PAY"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "JR西日本、6月27日からICOCAがApple Payで利用可能に",
+    "description": "ICOCA：Apple Pay\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n西日本旅客鉄道が、ICカード乗車券「ICOCA」のApple Pay対応を、2023年6月27日から開始すると発表しています。\niPhoneアプリ「ICOCAアプリ」で利用すると便利です。\nカード読み取り部にモバイルデバイスをタッチするだけで交通利用やお買い物のお支払いができるICOCAのサービスが、iPhoneやApple WatchのApple Pa…",
+    "url": "https://www.macotakara.jp/news/entry-44979.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202306/936d8cdc8e6cf898.jpg",
+    "publishedAt": "2023-06-27T00:38:05Z",
+    "content": "ICICOCAApple Pay2023627\r\niPhoneICOCA\r\nICOCAiPhoneApple WatchApple Pay\r\nICOCAAppleApple PayICOCA iPhoneApple Watch\r\nApple Pay"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Gori.me"
+    },
+    "author": "g.O.R.i",
+    "title": "ICOCA、Apple Payに対応",
+    "description": "JR西日本は6月27日より、ICOCAがApple Payで利用可能になったと発表した。 iPhone、Apple Watchのウォレットアプリで新規発行または利用中のICOCAカードを追加（移行）するだけで、電車やバスの利用、買い物の支払いができるようになる。 Apple PayのICOCAを利用…\nThe post ICOCA、Apple Payに対応 first appeared on ゴリミー. 【もっと読む】",
+    "url": "https://gori.me/apple/apple-pay/148405",
+    "urlToImage": "https://gori.me/uploads/2023/06/ICOCA-Apple-Pay-Support-800x448.jpg",
+    "publishedAt": "2023-06-27T03:37:02Z",
+    "content": "JR627ICOCAApple Pay iPhoneApple WatchICOCA\r\nApple PayICOCAiOS 16iPhone 8watch OS 8.7.1Apple Watch Series\r\nICOCAJ-WESTICOCAWESTER3\r\niPhoneApple Watch"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Daniel AJ Sokolov",
+    "title": "Nur 5 Jahre Haft für Twitter-Hacker trotz Stalking, Erpressung, und mehr",
+    "description": "Eine Bitcoin-Betrugswelle überrollte Twitter 2020. Der Haupttäter kam mit 3 Jahren davon, der Zweite fasst 5 Jahre aus. Trotz beispielloser Verbrechensserie.​",
+    "url": "https://www.heise.de/news/Nur-5-Jahre-Haft-fuer-Twitter-Hacker-trotz-Stalking-Erpressung-und-mehr-9199116.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/1/9/2/0/Grenze_Zaun_Stacheldraht-36b046d40f95d6b2.jpeg",
+    "publishedAt": "2023-06-27T03:15:00Z",
+    "content": "Mit 5 Jahren Haft und knapp 800.000 Dollar Abschöpfung von Gewinnen aus Straftaten kommt der britische Twitter-Hacker Joseph James O'Connor davon. Er hat eine ganze Reihe von Straftaten gestanden, da… [+5397 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Bleeding Cool News"
+    },
+    "author": "Jude Terror",
+    "title": "X-Men: Before the Fall – Heralds of Apocalypse #1 Preview: Secrets",
+    "description": "Ah, another fine week in the comic book \"journalism\" biz, and I've got to preview X-Men: Before the Fall – Heralds of Apocalypse #1. This little gem from Marvel arrives in stores on June 28th and reveals the origin of Arakko. You know, the land everyone in Kr…",
+    "url": "https://bleedingcool.com/comics/x-men-before-the-fall-heralds-of-apocalypse-1-preview-secrets/",
+    "urlToImage": "https://bleedingcool.com/wp-content/uploads/2023/06/XMENBTFHOA2023001_Preview-4-1200x628.jpeg",
+    "publishedAt": "2023-06-27T00:27:10Z",
+    "content": "Posted in: Comics, Marvel Comics, Preview | Tagged: Comics, marvel, previews, x-men\r\nX-Men: Before the Fall - Heralds of Apocalypse #1 takes us back to the origin of Arakko, where Apocalypse's past m… [+6122 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "Sam Smith Spotted Kissing Partner Christian Cowan in New York City During Pride March!",
+    "description": "Sam Smith and Christian Cowan packed on PDA while attending the Pride March in New York City! The 31-year-old singer and the 28-year-old fashion designer were seen sharing a kiss while hanging out at the pride event on Sunday (June 25) in the Big Apple. Sam a…",
+    "url": "https://www.justjared.com/2023/06/26/sam-smith-spotted-kissing-partner-christian-cowan-in-new-york-city-during-pride-march/",
+    "urlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/06/smith-kissing.jpg",
+    "publishedAt": "2023-06-27T00:56:43Z",
+    "content": "Sam Smith and Christian Cowan packed on PDA while attending the Pride March in New York City!\r\nThe 31-year-old singer and the 28-year-old fashion designer were seen sharing a kiss while hanging out a… [+581 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "STERN.de"
+    },
+    "author": "STERN.de",
+    "title": "Online-Handel: Amazon klagt am BGH gegen härtere Wettbewerbskontrolle",
+    "description": "Welche Macht hat Amazon im Online-Einzelhandel? Extrem viel, meint das Bundeskartellamt - und stellt den Konzern unter verschärfte Wettbewerbsaufsicht. In der Folge zieht Amazon vor den BGH.",
+    "url": "https://www.stern.de/wirtschaft/news/online-handel--amazon-klagt-am-bgh-gegen-haertere-wettbewerbskontrolle-33595518.html",
+    "urlToImage": "https://image.stern.de/33595520/t/Qn/v1/w1440/r1.7778/-/27--urnnewsmldpacom2009010123062799197283v3w800h600l640t425r1920b1278jpeg---d52f5301d38a9233.jpg",
+    "publishedAt": "2023-06-27T03:34:27Z",
+    "content": "Welche Macht hat Amazon im Online-Einzelhandel? Extrem viel, meint das Bundeskartellamt - und stellt den Konzern unter verschärfte Wettbewerbsaufsicht. In der Folge zieht Amazon vor den BGH.\r\nAmazon … [+3883 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Tweakers.net"
+    },
+    "author": "Tomas Hochstenbach",
+    "title": "Apple Mac Studio (M2 Ultra) - Ultieme configuratie van 10.400 euro getest",
+    "description": "In deze review testen we de Mac Studio (2023) in zijn allerduurste configuratie, met M2 Ultra-processor, 192GB ram en een 8TB-ssd.",
+    "url": "https://tweakers.net/reviews/11204/apple-mac-studio-m2-ultra-ultieme-configuratie-van-10400-euro-getest.html",
+    "urlToImage": "https://tweakers.net/ext/i/2005916100.jpeg",
+    "publishedAt": "2023-06-27T04:00:00Z",
+    "content": "Tijdens WWDC ververste Apple zijn Mac Studio met de socs uit de M2-serie. Hoewel de nieuwe uitvoering vanbuiten amper te onderscheiden is van die van vorig jaar, moet de nieuwe hardware vanbinnen hem… [+2257 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Ty Haqqi",
+    "title": "20 Most Commonly Used Recreational Drugs in America",
+    "description": "In this article we will take a look at the 20 most commonly used recreational drugs in America. Click to skip ahead and see the 10 most commonly used...",
+    "url": "https://finance.yahoo.com/news/20-most-commonly-used-recreational-025251609.html",
+    "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/4b3b1a7f708b6fc5118ef5c2b086277c",
+    "publishedAt": "2023-06-27T02:52:51Z",
+    "content": "In this article we will take a look at the 20 most commonly used recreational drugs in America. Click to skip ahead and see the 10 most commonly used recreational drugs in America.\r\nAccording to the … [+9873 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Cardinals’ Isaiah Simmons gets honorable mention among league’s top slot defenders",
+    "description": "Simmons does not crack Touchdown Wire's top 11 but does get honorable mention.",
+    "url": "https://cardswire.usatoday.com/2023/06/26/cardinals-isaiah-simmons-gets-honorable-mention-among-leagues-top-slot-defenders/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_3bm51z_.eRCXCc3.RLOVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/7ed42e8e20296fc3e7cdda9a48604450",
+    "publishedAt": "2023-06-27T00:02:51Z",
+    "content": "In 2022, Isaiah Simmons, then considered a linebacker for the Arizona Cardinals, became the teams primary slot defender. Previously, that role primarily belonged to cornerback Byron Murphy.\r\nInjuries… [+1170 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Www.nzz.ch"
+    },
+    "author": "Marlen Oehler (oeh), Sebastian Panholzer (sep)",
+    "title": "PODCAST - Jewegeni Prigoschin gegen Putin: Warum der militärische Aufstand in Russland scheiterte",
+    "description": "Der Chef der paramilitärischen Wagner-Truppen liess am Wochenende den Machtkampf mit der russischen Armeespitze eskalieren. Mit seinen Kämpfern belagerte er Rostow und stellte ultimative Forderungen. Drohte ein Staatsstreich`? Es waren 24 bange Stunden, erzäh…",
+    "url": "https://www.nzz.ch/podcast/prigoschin-vs-putin-die-gescheiterte-revolte-der-wagner-truppen-nzz-akzent-ld.1744445",
+    "urlToImage": "https://img.nzz.ch/2023/06/26/4f1b2786-2ec4-4b72-a9b7-6e2c907d5602.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=2644,1486,x0,y3&wmark=nzz",
+    "publishedAt": "2023-06-27T03:30:00Z",
+    "content": "Hören und abonnieren Sie den Podcast «NZZ Akzent» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Podcast-Episode:\r\nAls am sp… [+1427 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "Vision Pro 不會在架上賣，想買得先預約",
+    "description": "你期待蘋果的 Vision Pro 嗎？對於一些偏好等產品上市、再到實體通路「摸一把」之後再決定是否購買的用戶這次可能要失望了，因為有消息指稱，即便到了明年初 Vision Pro 正式上市後，蘋果也不打算將這款產品放在 Apple Store 的架上以供直接選購，想買的用戶必須得先預約才能購買。 ...",
+    "url": "https://technews.tw/2023/06/27/vision-pro-sale/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/06/06102142/Apple-Vision-Pro.jpg",
+    "publishedAt": "2023-06-27T04:21:50Z",
+    "content": "Vision Pro Vision Pro Apple Store \r\n Mark Gurman Apple Watch \r\nGurman Apple Store Vision Pro\r\n 3,499 Viviom Pro Apple Store 3,499 \r\n Apple Store 600 \r\n 3,499 3,499 Vision Pro 200~300"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "MoneyDJ",
+    "title": "iPhone 相機模組供應商 LG Innotek 倍增越南產能",
+    "description": "蘋果（Apple）iPhone 相機模組供應商 LG Innotek 將大舉投資越南工廠，將興建新廠房，倍增越南工廠相機模組產能。 韓聯社報導，南韓電子零件大廠LG Innotek 26日宣布，將對位於越南海防市的生產據點投資1.3兆韓元（約10億美元）、興建新廠房，增產智慧手機用相機模組。LG I...",
+    "url": "https://technews.tw/2023/06/27/lg-innotek-vietnam/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2016/12/05172808/LG-Innotek_3.png",
+    "publishedAt": "2023-06-27T00:36:49Z",
+    "content": "AppleiPhone LG Innotek \r\nLG Innotek 261.310LG Innotek202420252\r\nLG Innotek\r\nLG Innotek201693,50020224.3LG Innotek\r\nLG InnotekLGiPhone\r\niPhone ManiaThe ElecLG InnotekiPhone70%30%\r\nMoneyDJ"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "HipHopDX"
+    },
+    "author": "Alexis Oatman",
+    "title": "Russ Gets Coached By Dr. Dre During 'Dream' Studio Session",
+    "description": "Russ seemed to fulfill a childhood dream after recently linking up with superproducer, Dr. Dre, marking an important milestone in his career.",
+    "url": "https://hiphopdx.com/news/russ-dr-dre-during-studio",
+    "urlToImage": "https://static.hiphopdx.com/2023/06/russ-gets-coached-by-dr-dre-during-dream-studio-session-1200x675.jpg",
+    "publishedAt": "2023-06-27T00:30:01Z",
+    "content": "Russ has put in his dues, and now it seems to be paying off the rapper was recently spotted having a dream studio session with one of his most significant influences, Dr. Dre.\r\nOn Monday (June 26), t… [+1857 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Jaylen Brown links up with rapper Napoleon at his Saudi Arabian BBQ restaurant",
+    "description": "According to social media, Jaylen Brown is in Saudi Arabia sampling some Texas-style barbecue.",
+    "url": "https://celticswire.usatoday.com/2023/06/26/nba-boston-celtics-long-ass-flight-for-bbq-jb/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mVnYhk4kGT0qbTKYNdqNwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/f9c19d489c22c56f5819a3660ceda18e",
+    "publishedAt": "2023-06-27T00:27:00Z",
+    "content": "Boston Celtics All-NBA forward Jaylen Brown is in Saudi Arabia visiting rapper Napoleons BBQ restaurant Smokey Beards Q, according to an Instagram post by the former member of the group Outlawz. This… [+1061 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Celtics fans welcome the No. 38 pick of the 2023 NBA draft, Jordan Walsh, to Boston",
+    "description": "The man with the 7-foot-2 wingspan and a predilection for diving after loose balls has a palpable buzz around his arrival in Boston.",
+    "url": "https://celticswire.usatoday.com/2023/06/26/nba-boston-celtics-jw-love/",
+    "urlToImage": "https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/0e7a98f91949a0738cde40aad1605f05",
+    "publishedAt": "2023-06-27T00:37:37Z",
+    "content": "New Boston Celtics wing Jordan Walsh hosted a Celtics basketball camp in Cambridge for a fully redesigned court grand opening at the citys local community center on Monday afternoon. The University o… [+1005 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Cedric Maxwell: It was ‘really tough’ on Marcus Smart when the Boston Celtics traded him",
+    "description": "\"Marcus took it really tough,\" he said.\"He thought he was going to be the last one on the ship.\"",
+    "url": "https://celticswire.usatoday.com/2023/06/26/nba-boston-celtics-max-on-smart/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4ei6LgMCKWK.2Bdzc8El1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/7bac876cf1c867cf036202e0fcb281b2",
+    "publishedAt": "2023-06-27T00:12:39Z",
+    "content": "Champion Boston Celtics forward (and broadcaster) Cedric Maxwell knows firsthand how it feels to be dealt away from the Celtics in the midst of a wide-open contention window, so his perspective is es… [+949 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Chris Forsberg, Brian Robb react to the Boston Celtics drafting Jordan Walsh",
+    "description": "Known for his defense, hustle, measurables, scoring ability, and versatility, Walsh's addition could shake up the team's dynamic in a major way next season.",
+    "url": "https://celticswire.usatoday.com/2023/06/26/nba-boston-celtics-walsh-reax-2/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UK8qMeZBhBuqeBto0pm_lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/1754bfd6365212cedeea4802c234cc46",
+    "publishedAt": "2023-06-27T01:04:03Z",
+    "content": "The Boston Celtics moved up from No. 35 in the draft to No. 25 in the first round as part of the trade bringing Washington Wizards big man Kristaps Porzingis to the team, then traded back several tim… [+925 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Reggie Kisoonlal, Sam Griesel to join Celtics’ 2023 Las Vegas Summer League squad",
+    "description": "The Celtics are close to having a full roster with these two additions, the total of players at a dozen at the time of writing.",
+    "url": "https://celticswire.usatoday.com/2023/06/26/nba-boston-celtics-reggie-y-sam-sl/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3Yai4fr6RC5bUj5ALoDpfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/2e2621734b0be12949a5b6c5cd1f72a3",
+    "publishedAt": "2023-06-27T00:55:21Z",
+    "content": "Two more names can be added to the Boston Celtics roster for the NBAs 2023 Las Vegas Summer League. New reporting from Rookie Wires Cody Taylor and Husker Onlines Robin Washut. Per Taylor, the Celtic… [+1373 chars]"
+    },
+    -{
+    -"source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Jordan Walsh says all the right things during first appearance as a Boston Celtic",
+    "description": "\"I heard that Boston likes people who dive on the floor more than people who dunk the ball. That guy's going to be me.\" Walsh said.",
+    "url": "https://celticswire.usatoday.com/lists/nba-boston-celtics-walsh-words/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MrfiFQdD6NAT6LwF7Azv8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/dc9fef93ac6371b3d37ff647392497da",
+    "publishedAt": "2023-06-27T00:02:16Z",
+    "content": "For some players, jumping from college to the NBA can be a difficult transition. In the blink of an eye, theyve gone from big man on campus to lowest rung on the ladder. Incoming Boston Celtics rooki… [+4011 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Дизайн iPhone 15 Pro подтверждают первые живые фотографии и видео чехлов",
+    "description": "iPhone 15 Pro будет иметь слегка измененное положение кнопок питания и громкости, согласно свежим фотографиям чехлов, которые уже создают производители аксессуаров на базе финальных чертежей. Изображения показывают, что кнопки питания и громкости iPhone 15 Pr…",
+    "url": "https://www.ixbt.com/news/2023/06/27/iphone-15-pro.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/5/2/photo_2023-06-26_18-15-54_large.jpg",
+    "publishedAt": "2023-06-27T02:31:00Z",
+    "content": "iPhone 15 Pro , , .\r\n , iPhone 15 Pro , iPhone 14 Pro. USB-C iPhone 15 Pro, Lightning , .\r\n, , . , , .\r\n, Apple Watch Ultra , .\r\n , , iPhone 15 Pro . , iPhone 15 Pro , , .\r\n , ."
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Спрос на экраны для iPhone 15 намного выше, чем было с iPhone 14 год назад",
+    "description": "В настоящее время Apple занимается подготовкой к запуску линейки iPhone 15 этой осенью. Согласно информации из цепочки поставок, компания Apple готовится к особенно высокому спросу в этом году. Согласно новому исследованию, опубликованному DSCC, заказы на пан…",
+    "url": "https://www.ixbt.com/news/2023/06/27/iphone-15-iphone-14.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/5/2/15profrontbezelss_large.png",
+    "publishedAt": "2023-06-27T03:03:00Z",
+    "content": "Apple iPhone 15 . , Apple .\r\n , DSCC, iPhone 15 2023 « 100% », iPhone 14 . , DSCC iPhone 15 Pro iPhone 14 .\r\n« iPhone 15 Pro 58% 43% iPhone 14 Pro », — DSCC.\r\n DSCC iPhone 14 22% iPhone 13 .\r\n iPhone… [+48 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "TmoNews"
+    },
+    "author": "Christine Torralba",
+    "title": "T-Mobile Changes AutoPay Deadline Again",
+    "description": "A few weeks ago, T-Mobile sent out a notice to its customers about the upcoming changes it will be making to its AutoPay discount. This wasn’t the first time these changes were announced, but the Un-carrier gave customers up to June 20 to make the necessary c…",
+    "url": "https://www.tmonews.com/2023/06/t-mobile-changes-autopay-deadline-again/",
+    "urlToImage": "https://www.tmonews.com/wp-content/uploads/2023/06/t-mobile-t-force-close-210x131.jpeg",
+    "publishedAt": "2023-06-27T02:05:06Z",
+    "content": "A few weeks ago, T-Mobile sent out a notice to its customers about the upcoming changes it will be making to its AutoPay discount. This wasnt the first time these changes were announced, but the Un-c… [+1130 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Thephoblographer.com"
+    },
+    "author": "Chris Gampat",
+    "title": "Last Week to Win a Wonderful Vintage Canon Camera!",
+    "description": "Our members are enjoying a ton of great things! When we created the Phoblographer’s Membership program, we wanted to find a way to give photographers some of the best benefits and content around. It does way more than just take away banner-ads. You get a ton …",
+    "url": "https://www.thephoblographer.com/2023/06/27/last-week-to-win-a-wonderful-vintage-canon-camera/",
+    "urlToImage": "https://www.thephoblographer.com/wp-content/uploads/2023/05/Chris-Gampat-The-Phoblographer-Canon-Snappy-Lx-II-review-product-images-41-80s400-10-scaled.jpg",
+    "publishedAt": "2023-06-27T04:00:00Z",
+    "content": "Our members are enjoying a ton of great things! When we created the Phoblographer’s Membership program, we wanted to find a way to give photographers some of the best benefits and content around. It … [+14307 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPad Pro 2021款 11英寸平板电脑 2TB WLAN 9099元包邮",
+    "description": "Apple 苹果 iPad Pro 2021款 11英寸平板电脑 2TB WLA 9099元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/83917688/",
+    "urlToImage": "https://y.zdmimg.com/202104/21/607fb5ffc2c0f8800.jpg_d250.jpg",
+    "publishedAt": "2023-06-27T00:50:56Z",
+    "content": "11 2021 iPad Pro M1 M1 MacBook iPad Pro CPU 50%GPU 40% iPad Pro \r\n2021 iPad Pro iPadOS MacBook macOS iPadOS MacBook macOS Final Cut ProXcode iPadOS iPad MacBook \r\n2021 iPad Pro USB 4 40Gbps iPad iPad… [+49 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "superforever",
+    "title": "Apple TV Plus 3 months Free Trial for Samsung TVs @ Samsung",
+    "description": "Not sure if mentioned before, if you open up your Apple TV Plus app on your Samsung TV, if your TV is eligible you will see the option to get 3 months free.\n\nMine is 2022 Samsung The Frame, I am still eligible, my previous free trial expired yesterday, I can …",
+    "url": "https://www.ozbargain.com.au/node/784198",
+    "urlToImage": "https://files.ozbargain.com.au/n/98/784198l.jpg?h=4ba6971c",
+    "publishedAt": "2023-06-27T04:22:15Z",
+    "content": "Not sure if mentioned before, if you open up your Apple TV Plus app on your Samsung TV, if your TV is eligible you will see the option to get 3 months free.\r\nMine is 2022 Samsung The Frame, I am stil… [+172 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "erroorfree",
+    "title": "Samsung Galaxy Watch 5 Pro LTE 45mm [Open Box] $449, Apple Watch Series 8 45mm LTE [Like New] $579",
+    "description": "Samsung Watch5 Pro LTE [Open Box] - $449\n\nApple Watch Series 8 45mm LTE [Like New] - In generic box with original band and charger - $579\n\n<ul>\n<li>Aussie stock. </li>\n<li>12 Months Warranty.\r\n</li>\n<li>Free Delivery (You can remove $8 transit cover fee when …",
+    "url": "https://www.ozbargain.com.au/node/784182",
+    "urlToImage": "https://files.ozbargain.com.au/n/82/784182l.jpg?h=8b5fe58e",
+    "publishedAt": "2023-06-27T03:35:04Z",
+    "content": "Samsung Watch5 Pro LTE [Open Box] - $449\r\nApple Watch Series 8 45mm LTE [Like New] - In generic box with original band and charger - $579\r\n<ul><li>Aussie stock. </li><li>12 Months Warranty.\r\n</li><li… [+458 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Idiesel",
+    "title": "Apple MacBook Pro M1 Pro (2021, 14\" 10‑Core CPU, 16GB, 1TB) - $2697 + Delivery ($0 C&C) @ JB Hi-FI",
+    "description": "Silver and Space Grey available\n10-core M1 Pro version - basically the same performance as the base model M2 Macbook Pro but $1000 cheaper and with a 1TB SSD.\n\nNot as good as this deal, but still competitive\nhttps://www.ozbargain.com.au/node/783012\n\nAlso 512G…",
+    "url": "https://www.ozbargain.com.au/node/784140",
+    "urlToImage": "https://files.ozbargain.com.au/n/40/784140x.jpg?h=b0ae4adb",
+    "publishedAt": "2023-06-27T00:33:35Z",
+    "content": "Silver and Space Grey available10-core M1 Pro version - basically the same performance as the base model M2 Macbook Pro but $1000 cheaper and with a 1TB SSD.\r\nNot as good as this deal, but still comp… [+82 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "gotyourback",
+    "title": "2.5% Cashback on ShopBack Supermarket Visa Gift Cards (Usable at ANY Major Supermarket Nationwide) @ ShopBack",
+    "description": "Hey there OzB, just wanted to call out our new Supermarket Gift Card launching today that can be used at any major supermarket, to get you 2.5% Cashback on all your grocery needs. These cards can be used online and in-store, so however you shop you can get yo…",
+    "url": "https://www.ozbargain.com.au/node/784127",
+    "urlToImage": "https://files.ozbargain.com.au/n/27/784127l.jpg?h=b7e69459",
+    "publishedAt": "2023-06-27T00:00:01Z",
+    "content": "$35 for referrer, $10 for referee after referee qualifies.\r\nQualifying requirements for referee: 1. Made a minimum $20 online purchase (below exclusions apply), 2. Received a minimum $10 confirmed ca… [+297 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ferra.ru"
+    },
+    "author": "Булат Кармак",
+    "title": "Apple выпустит iPad, который будет мощнее большинства ноутбуков на Windows",
+    "description": "Apple готовит впечатляющее обновление iPad Pro. По данным источников, изменения будут сравнимы с переходом на процессоры Apple Silicon.",
+    "url": "https://www.ferra.ru/news/notebooks/apple-vypustit-ipad-kotoryi-budet-moshnee-bolshinstva-noutbukov-na-windows-27-06-2023.htm",
+    "urlToImage": "https://www.ferra.ru/imgs/2023/06/27/03/5963103/f5709cf99400029ced85c2251fce0ad08e64bb14.png",
+    "publishedAt": "2023-06-27T04:21:59Z",
+    "content": "OLED-. iPad Pro Apple 120- Mini-LED. OLED-.\r\n 14- , . , .\r\n iPad Pro Applt M3 11- 13- . 14- M3 Pro.\r\n , , MacBook.\r\n, iPad Pro . , - iPhone 15."
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Appllio.com"
+    },
+    "author": "アプリオ編集部",
+    "title": "Apple PayのICOCA、サービス提供を開始　iPhoneとApple WatchでICOCAの利用が可能に",
+    "description": "JR西日本は2023年6月27日、「Apple PayのICOCA」のサービス提供を開始したと発表しました。",
+    "url": "https://appllio.com/news/2023-06-27-42511-apple-pay-icoca",
+    "urlToImage": "https://appllio.com/sites/default/files/styles/cover_xl_1/public/2023/06/27/r-entryimage-apple-pay-icoca.jpg",
+    "publishedAt": "2023-06-27T02:45:35Z",
+    "content": "Apple PayICOCAiPhoneApple PayICOCAApple PayICOCAICOCAICOCAiPhoneApple WatchApple PayICOCAApplePayICOCAJ-WESTWESTER\r\nApple PayICOCAiOS 16.0iPhone 8watchOS 8.7.1Apple Watch Series 3"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Mobilelaby.com"
+    },
+    "author": "Yusuke Sakakura",
+    "title": "Apple、無料写真同期サービス「マイフォトストリーム」のアップロード停止。7月に完全終了",
+    "description": "7月26日をもって「マイフォトストリーム」の提供が終了すると案内されていますが、サービス終了の1ヶ月前となる今日、アップロード機能が停止しました。\n\nマイフォトストリームは、iCloudで提供される写真機能の1つで、iCloudの容量を消費せずに過去30日分および最大1,000枚の写真をアップロードできます。\n\n続きを読む",
+    "url": "https://mobilelaby.com/blog-entry-my-photo-stream-shutdown-upload-stop.html",
+    "urlToImage": "https://mobilelaby.com/wp/wp-content/uploads/my-photo-stream-shutdown-1-800x444.jpg",
+    "publishedAt": "2023-06-27T01:35:09Z",
+    "content": "7261\r\niCloud1iCloud301,000\r\nApple626\r\n307261000\r\niCloud5GB\r\niCloudGIFHEIFHEVC\r\niCloud.comApple Watch\r\nGoogle News"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "COMPUTER BILD"
+    },
+    "author": "Marlene Gesch",
+    "title": "Schnäppchen-Alarm: Apple Watch SE aus 2022 für 269 Euro",
+    "description": "Apple Watch für Sparfüchse! Die SE 2022 eignet sich fürs Training, ist kompakt und flüssig in der Bedienung. Media Markt bietet die Uhr jetzt zum Vorteilspreis an.",
+    "url": "https://www.computerbild.de/artikel/cb-News-Wearables-Smartwatch-Apple-Watch-SE-2022-Media-Markt-Angebot-36060629.html",
+    "urlToImage": "https://i.computer-bild.de/imgs/1/4/9/1/4/5/3/7/MediaMarkt-Satur-Apple-Watch-SE-2022-44e5068204131cc0.jpg",
+    "publishedAt": "2023-06-27T03:01:00Z",
+    "content": "Sie muss sich nicht verstecken! Die Apple Watch SE 2022 (Note 1,5) ist fast so gut ausgestattet wie andere Apple Watches und dabei wesentlich günstiger. Unter den besten Smartwatches, die COMPUTER BI… [+1458 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "COMPUTER BILD"
+    },
+    "author": "Markus Werner",
+    "title": "Amazon: Apple Watch 7 mit Edelstahlgehäuse für unter 600 Euro kaufen",
+    "description": "Gerade ist die Apple Watch 7 mit Edelstahlgehäuse bei Amazon günstiger im Angebot. Im Test von COMPUTER BILD gab es für die Smartwatch die Bestnote!",
+    "url": "https://www.computerbild.de/artikel/cb-News-Wearables-Smartwatch-Apple-Watch-7-Amazon-Angebot-sparen-36058803.html",
+    "urlToImage": "https://i.computer-bild.de/imgs/1/4/9/1/4/1/3/9/Amazon-Produkt-Teaser_Apple-Watch-Series-7-c1681ef46cca08aa.jpg",
+    "publishedAt": "2023-06-27T03:00:00Z",
+    "content": "Ihnen sind über 750 Euro zu viel für eine Smartwatch? Dann finden Sie jetzt die Apple Watch 7, ausgestattet mit Edelstahlgehäuse, 4G und mehr für 579 statt 779 Euro bei Amazon im Angebot. Gegenüber d… [+1681 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "ZDNet"
+    },
+    "author": "Alison DeNisco Rayome",
+    "title": "The best early Amazon Prime Day deals: TVs, phones, AirPods, robot vacuums, more",
+    "description": "Don't wait to start your Prime Day shopping. You can save now on tons of products from Apple, Samsung, Google, iRobot, and more, including Amazon itself.",
+    "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-deals/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/9787fd3f62a605d58619d709baf65d035c9da10c/2023/06/20/176d86fc-bae1-4bd2-9855-ceac153742de/01-zdnetprime23-2.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-06-27T01:29:42Z",
+    "content": "Amazon Prime Day will be available to customers in the following countries this year: Australia, Austria, Belgium, Brazil, Canada, China, Egypt, France, Germany, Italy, Japan, Luxembourg, Mexico, the… [+202 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "PC Games"
+    },
+    "author": "Tobias Tengler-Boehm",
+    "title": "Ab sofort gratis erhältlich: Lohnt sich das neue Harry Potter-Spiel?",
+    "description": "Nach Hogwarts Legacy können sich Fans von Harry Potter bereits jetzt über ein neues RPG freuen.",
+    "url": "https://www.pcgames.de/Harry-Potter-Brands-23301/News/Ab-sofort-gratis-erhaeltlich-Lohnt-sich-das-neue-Harry-Potter-Spiel-die-magie-erwacht-appstor-playstore-android-iphone-1422962/",
+    "urlToImage": "https://www.pcgames.de/screenshots/medium/2023/06/6127d67daa481f0004ea72c4-pc-games.png",
+    "publishedAt": "2023-06-27T03:11:00Z",
+    "content": "\"Du wurdest nach Hogwarts eingeladen, um magische Fähigkeiten zu meistern! Zehn Jahre nach der Schlacht um Hogwarts wartet ein neues Abenteuer in der Wizarding World auf dich.\" So lauten die einleite… [+3107 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "iPhoneでICOCAが使える。「Apple PayのICOCA」スタート",
+    "description": "JR西日本は、6月27日から「Apple PayのICOCA」サービスを開始する。iPhoneやApple WatchのウォレットアプリでICOCAを新規発行できるほか、利用中のICOCA カードを追加(移行)して電車やバスの利用、買い物の支払いができるようになる。",
+    "url": "https://www.watch.impress.co.jp/docs/news/1511685.html",
+    "urlToImage": "https://www.watch.impress.co.jp/img/ipw/list/1511/685/icoca1.jpg",
+    "publishedAt": "2023-06-27T01:57:06Z",
+    "content": "JR627Apple PayICOCAiPhoneApple WatchICOCAICOCA () \r\n iOS 16.0iPhone 8watch OS 8.7.1Apple Watch Series 3Android ICOCA3 \r\n Apple Pay ICOCAJ-WESTWESTER \r\n 2ICOCAiPhone XSiPhone5"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "FT729",
+    "title": "ICOCAがApple Payに対応〜iPhoneとApple Watchで利用可能",
+    "description": "ICカード乗車券「ICOCA」が2023年6月27日よりApple Payに対応したことを、JR西日本が発表しました。\n \niPhoneのウォレットにICOCAを追加することにより、iPhoneやApple Watchを使った支払いや定期券の購入が可能になります。\n\n■3行で分かる、この記事のポイント\n1. ICOCAが、Apple Payに対応した。\n2. ICOCAを、iPhoneのウォレットに取り込むことで利用できる。\n3. ICOCAの新規発行に対応、便利に使えるICOCAアプリも提供されている。\n\nAp…",
+    "url": "https://iphone-mania.jp/news-543155/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/06/27/ICOCA-iOS_1.png",
+    "publishedAt": "2023-06-27T01:40:56Z",
+    "content": "ICICOCA2023627Apple PayJRiPhoneICOCAiPhoneApple Watch31. ICOCAApple Pay2. ICOCAiPhone3. ICOCAICOCA\r\nApple PayICOCA\r\nICOCAAndroid20233ICOCAApple PayICOCAJR202234Apple PayICOCAiPhoneICICOCAApple PayICO… [+175 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "m7000",
+    "title": "米アリゾナ州自動運転テストコースとAppleとの繋がりを裏付ける新たな証拠が見つかる",
+    "description": "Route 14 Investment Partnersという企業が2021年、米アリゾナ州にある自動運転テスト用コースを買い取りましたが、これまで、この企業はAppleの関連会社なのではないかと噂されてきました。両社が実際に関係しているかどうかは明らかとなっていませんが、様々な状況証拠から両社が繋がっている可能性が高いと考えられています。\n \nそして今回、両社の繋がりをさらに裏付ける新たな証拠が見つかったとCar and Driverが報じています。\n \n\n■3行で分かる、この記事のポイント\n1.米アリゾナ州の…",
+    "url": "https://iphone-mania.jp/news-543148/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/06/27/55122-111876-Arizona-xl-e1687837092157.jpg",
+    "publishedAt": "2023-06-27T04:20:29Z",
+    "content": "Route 14 Investment Partners2021AppleCar and Driver31.Apple2.Apple3.Route 14Apple\r\nApple\r\nCar and DriverRX4AppleRXVINAppleApple\r\n2Web\r\nCar and DriverADEQWebRoute 14 Investment Partners2Applekl@route1… [+87 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "ClaireC",
+    "title": "Google 將在 Android 上保護用戶免受 AirTag 的追蹤（內含截圖）",
+    "description": "無線位置追蹤器，如 Apple 的 AirTags 和 Google 傳聞中的 Nest 定位器，因能幫助用戶定位放錯位置的物品而越來越受歡迎，然而，這些設備也無意中為有心人士不必要的追蹤另闢蹊徑，從而引發重大的安全問題。最近，Google 與 Apple 合作，確保無論你的手機是什麼作業系統，都能夠識別可能跟蹤你的藍牙追蹤器，接下來看看這項功能將如何運作。\nThe post Google 將在 Android 上保護用戶免受 AirTag 的追蹤（內含截圖） appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/497684",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2021/06/1623642733-75a9e754fd014c555a97bf083723968c.jpg",
+    "publishedAt": "2023-06-27T01:58:17Z",
+    "content": "Apple AirTags Google Nest Google Apple \r\nMishaal Rahman Twitter AssembleDebug Android AppleTile\r\nHere are some screenshots of Android’s soon-to-be-released unknown tracker alerts feature, which alert… [+216 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Shengti",
+    "title": "LINE 免費貼圖整理：23 款免費 LINE 貼圖限時開放下載",
+    "description": "暑假即將到來，準備好要去哪旅行了嗎？如果工作繁忙無法請假也沒關係，還是可以在 LINE 與朋友聊天討論一下之後假期要去哪玩囉！而與朋友聊天期間想讓氣氛更加活絡，使用 LINE 免費貼圖來傳遞感情就是不錯的選擇。今天 LINE 釋出多款 LINE 免費貼圖，讓小資族們想省錢也可以使用這些 LINE 免費貼圖，只要將指定官方帳號加為好友即可使用最長 180 天，不過貼圖下載有期限，務必把握呀！\nThe post LINE 免費貼圖整理：23 款免費 LINE 貼圖限時開放下載 appeared first on 電腦…",
+    "url": "https://www.kocpc.com.tw/archives/497709",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2023/06/1687839109-7c2ff885222a3d636fb616702662aad8.jpg",
+    "publishedAt": "2023-06-27T04:14:35Z",
+    "content": "LINE LINE LINE LINE LINE 180 \r\n1. Hokii 2023/07/20\r\n2. PRADA MOMENT 2023/07/27\r\n3. LINE ×Duck 2023/07/27\r\n4. 0050 2023/07/20\r\n5. LINE TV × 2023/07/19\r\n6. LINE× 2023/07/18\r\n7. LINE × 2023/07/18\r\n8. - … [+368 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Patrick Bellmer",
+    "title": "heise+ | Auto-Infotainment im Vergleich: Welche Hard- und Software BMW, VW und Co. bieten",
+    "description": "Infotainment-Systeme von BMW, Mercedes, Tesla, Volvo und VW sind Multitalente. Aber was verbauen die Hersteller tatsächlich? Und wie sieht es mit Updates aus?",
+    "url": "https://www.heise.de/hintergrund/Infotainment-im-Auto-Welche-Hard-und-Software-BMW-VW-und-andere-bieten-9195139.html?wt_mc=rss.red.autos.autos.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/9/7/1/1/aufmacher_1-577372dbc98e6655.jpg",
+    "publishedAt": "2023-06-27T05:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nMusik und Podcasts während der Fahrt, Routenplanung mit idealen Ladestopps, App-Stores und Zugriff auf mannigfaltige Fahrzeugfunktionen: Infotainment-Systeme in modernen Autos sin… [+3231 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Jacqueline Lindenberg, Justin Enriquez",
+    "title": "Real Housewives Of New York City drops NEW teaser clip ahead of season 14 release with rebooted cast",
+    "description": "The Real Housewives Of New York City officially dropped a new teaser clip ahead of the release of the 14th season on Bravo with an all-new rebooted and diverse cast after network re-cast the show.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-12236455/Real-Housewives-New-York-City-drops-NEW-teaser-clip-ahead-season-14-release-rebooted-cast.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/27/00/72562629-0-image-a-20_1687823330466.jpg",
+    "publishedAt": "2023-06-27T01:35:03Z",
+    "content": "The Real Housewives Of New York City officially dropped a new teaser clip on Peacock's Twitter page on Monday ahead of the show's premiere with an all-new rebooted cast. \r\nThe Bravo series, which fir… [+7524 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Brian Marks, Paul Farrell",
+    "title": "Angelina Jolie looks chic in a classic trench on New York City outing with her son Pax",
+    "description": "Angelina Jolie looked effortlessly stylish on Monday when she was spotted out in New York City while accompanied by her son Pax.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-12236529/Angelina-Jolie-looks-chic-classic-trench-New-York-City-outing-son-Pax.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/27/01/72563687-0-image-a-8_1687827005441.jpg",
+    "publishedAt": "2023-06-27T00:40:00Z",
+    "content": "Angelina Jolie looked effortlessly stylish on Monday when she was spotted out in New York City while accompanied by her son Pax.\r\nThe 48-year-old actress and humanitarian had all eyes on her as she e… [+4208 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Mikey G",
+    "title": "Quick Charge Podcast: June 26, 2023",
+    "description": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\n\r\n\n more…\nThe post Quick Charge Podcast: June 26, 2023 appeared first on E…",
+    "url": "https://electrek.co/2023/06/26/quick-charge-podcast-june-26-2023/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/01/quick-charge-placeholder-lead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-06-27T03:47:34Z",
+    "content": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\r\nNew episodes … [+636 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "EUobserver"
+    },
+    "author": "Cory Doctorow",
+    "title": "[Analysis] Saving the news from Big Tech",
+    "description": "Big Tech steals money from news, not content. Moving towards policy that addresses this fact can be one way to support the struggling news industry, shifting value to the press. Also, take on the apps.",
+    "url": "https://euobserver.com/opinion/157187",
+    "urlToImage": "https://media.euobserver.com/d5112d51b48aacb8583cc74c2b10d2e9-800x.jpg",
+    "publishedAt": "2023-06-27T05:00:02Z",
+    "content": "As Big Tech arose, the news declined. It's not controversial to assume that these two facts are related, but there is no consensus on how the decline of the news industry is related to concentration … [+16814 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Provideocoalition.com"
+    },
+    "author": "Rich Young",
+    "title": "After Effects Roundup June 2023 #2",
+    "description": "After Effects 23.5 is live! and includes important fixes that enable you to work more efficiently in After Effects. The Import 3D Models feature is still under construction, and Light and Camera Extraction from 3D Models is available in the beta app. For more…",
+    "url": "https://www.provideocoalition.com/after-effects-roundup-june-2023-2/",
+    "urlToImage": "https://www.provideocoalition.com/wp-content/uploads/bloqhead.jpeg",
+    "publishedAt": "2023-06-27T04:31:00Z",
+    "content": "After Effects 23.5 is live! and includes important fixes that enable you to work more efficiently in After Effects.Diffusae for After Effects from BSKL is a plug-in that brings some of the power of S… [+7712 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Worldsoccertalk.com"
+    },
+    "author": "World Soccer Talk",
+    "title": "Where to find Canada vs Guadeloupe on US TV",
+    "description": "Here are all of the details of where you can watch Canada vs Guadeloupe on US television and via legal streaming: WHO Canada vs Guadeloupe WHAT CONCACAF Gold Cup WHEN 7:00pm ET / 4:00pm PT • Tuesday, June 27, 2023 WHERE FS1, Univision, TUDN, Fubo, DirecTV Str…",
+    "url": "https://worldsoccertalk.com/tv/where-to-find-canada-vs-guadeloupe-on-us-tv-20230627-WST-439078.html",
+    "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230627_WST_439078_can-guad-gc.jpg[ampersand]width=1200[ampersand]height=740",
+    "publishedAt": "2023-06-27T04:00:00Z",
+    "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Unocero.com"
+    },
+    "author": "Eri Gutiérrez",
+    "title": "¿Cómo conectar WhatsApp Web sin código QR?",
+    "description": "Tal vez te ha pasado, que no encuentras tu celular y necesitas iniciar sesión, conectar a Whatsapp Web sin código QR, así que aquí te ayudamos. Es una solución relativamente sencilla y no tendrás que poner en peligro a tu dispositivo móvil usando programas de…",
+    "url": "https://www.unocero.com/como-se-hace/como-conectar-whatsapp-web-sin-codigo-qr-guia/",
+    "urlToImage": "https://img.unocero.com/2023/06/conectar-whatsapp-web-sin-codigo-qr-1024x576.png",
+    "publishedAt": "2023-06-27T00:00:00Z",
+    "content": "Tal vez te ha pasado, que no encuentras tu celular y necesitas iniciar sesión, conectar a Whatsapp Web sin código QR, así que aquí te ayudamos. Es una solución relativamente sencilla y no tendrás que… [+3410 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Om.co"
+    },
+    "author": "Om Malik",
+    "title": "Why Apple’s Vision Pro Will Change Movie-Watching",
+    "description": "We went from drive-in theaters to indoor theaters to multiplexes. And that is a good arc to follow to understand where we are going. The driving forces of change in the movie experience have been the human desire for comfort and convenience. The same forces h…",
+    "url": "https://om.co/2023/06/26/why-apples-vision-pro-will-change-movie-watching/",
+    "urlToImage": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2023/06/wes-anderson-asteroid-city.jpeg",
+    "publishedAt": "2023-06-27T01:21:08Z",
+    "content": "This weekend I did something I had not done in a long time I went to the movies. I wanted to see the new Wes Anderson movie Asteroid City, and going across town was my only option. I took a long Uber… [+8998 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Mirror Online"
+    },
+    "author": "mirrornews@mirror.co.uk (Josh Luckhurst)",
+    "title": "Lew Palter dead at 94 - Titanic actor who played ancestor of OceanGate CEO Stockton Rush's wife",
+    "description": "We'll be bringing you the very latest updates, pictures and video on this breaking news story",
+    "url": "https://www.mirror.co.uk/3am/us-celebrity-news/breaking-lew-palter-dead-94-30329637",
+    "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13465517.ece/ALTERNATES/s1200/2_Titanic-1997.jpg",
+    "publishedAt": "2023-06-27T02:42:43Z",
+    "content": "Actor and teacher Lew Palter, who played the ancestor of OceanGate CEO Stockton Rush's wife, has died at the age of 94.\r\nPalter rose to prominence in James Cameron's blockbuster film Titanic where he… [+1703 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Origo.hu"
+    },
+    "author": null,
+    "title": "Itt a gyors segítség, ha út közben merül az iPhone",
+    "description": "Beépített Lightning csatlakozót kapott az Apple iPhone-okhoz tervezett Anker 621 powerbank.",
+    "url": "https://www.origo.hu/techbazis/20230626-anker-621-power-bank-apple-iphone-mobilhoz.html",
+    "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2306/20230626anker-621-power-bank2.jpg?w=1024",
+    "publishedAt": "2023-06-27T04:30:00Z",
+    "content": "Beépített Lightning csatlakozót kapott az Apple iPhone-okhoz tervezett Anker 621 powerbank.Az Anker 621 egy újabb powerbank a márkától, ez viszont kifejezetten Apple iPhone-okhoz készült, a 12 wattos… [+647 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Boyculture.com"
+    },
+    "author": "Matthew Rettenmund",
+    "title": "GALECA Dorian TV Awards: Favorite Ladies & Special Award For Elliot Page",
+    "description": "GALECA Dorian TV Awards: Favorite Ladies & Special Award For Elliot Page",
+    "url": "https://www.boyculture.com/boy_culture/2023/06/galeca-dorian-tv-awards-favorite-ladies-special-award-for-elliot-page.html",
+    "urlToImage": "https://www.boyculture.com/.a/6a00d8341c2ca253ef02b751a95409200c-600wi",
+    "publishedAt": "2023-06-27T01:47:05Z",
+    "content": "(Images via movie/TV/book stills)\nAll the winners in GALECA's Dorian TV Awards are here, queer and worthy!\nOnly GALECA is able to honor all your favorites at once — Quinta Brunson, Sarah Snook, Bridg… [+3697 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【新製品】細身レザー風のマグネット式Apple Watchバンド「Esalta マグネットループ Magnete （マグネーテ）」",
+    "description": "株式会社ROOXが「Esalta マグネットループ Magnete （マグネーテ） for Apple Watch」を発売しています。 マイクロファイバーレザー（合皮）素材が使用されています。 バンドに内蔵したマグネット...\nThe post 【新製品】細身レザー風のマグネット式Apple Watchバンド「Esalta マグネットループ Magnete （マグネーテ）」 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/06/magnete-band-for-apple-watch.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/06/230627rooxmagneteband.jpg",
+    "publishedAt": "2023-06-27T03:01:02Z",
+    "content": "株式会社ROOXが「Esalta マグネットループ Magnete （マグネーテ） for Apple Watch」を発売しています。\n\n\nマイクロファイバーレザー（合皮）素材が使用されています。\n\nバンドに内蔵したマグネットで留められます。\n\nバンド幅16mmの細身に仕上げられています。\n\n38/40/41mmケース用と、42/44/45/49mmケース用の2サイズです。\nそれぞれ8色のカラー… [+215 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Prtimes.jp"
+    },
+    "author": null,
+    "title": "タイのコスメブランド”４U2（フォーユーツー ）”より「ジェリーティント」新登場。しっかり色づく12色のティントリップが6/28～順次店頭発売開始。",
+    "description": "[株式会社千空]\nタイコスメブランド「4U2 （フォーユーツー ）」は、ティントリップ「ジェリーティント」の12色を、全国バラエティショップ、ドン・キホーテで2023年6月28日(水)より順次取り扱い開始します。\n\n高発色×透けマット...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000017.000058726.html",
+    "urlToImage": "https://prtimes.jp/i/58726/17/ogp/d58726-17-360e1a4b0500d6f9da1e-4.jpg",
+    "publishedAt": "2023-06-27T04:40:02Z",
+    "content": "4U2 122023628()\r\nKEEP\r\n/ / / / 12\r\n 30\r\n4U2\r\n780858\r\n12 \r\n#01  GUMMY BEAR\r\n#02  SWEET CANDY\r\n#03  LITTLE JOY\r\n#04  JUICY FRESH\r\n#05  BABY SMILE\r\n#06  M&amp;M\r\n#07  SOUR APPLE\r\n#08  SODA POP\r\n#09  HAP… [+256 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Ferra.ru"
+    },
+    "author": "Булат Кармак",
+    "title": "AR-гарнитура Apple Vision Pro будет продаваться только по записи",
+    "description": "Apple планирует изменить способ продажи Apple Vision Pro.",
+    "url": "https://www.ferra.ru/news/techlife/ar-garnitura-apple-vision-pro-budet-prodavatsya-tolko-po-zapisi-27-06-2023.htm",
+    "urlToImage": "https://www.ferra.ru/imgs/2023/06/27/03/5963077/1587f5734f2098d6606d974f595d80ac3ec67e2d.jpeg",
+    "publishedAt": "2023-06-27T03:20:13Z",
+    "content": ", AR- -, . , Apple , .\r\n, Apple. Apple Watch 2015 .\r\nApple Vision Pro, .\r\n, Apple , AR-.\r\n , , , .\r\n, Apple Vision Pro 2024 ."
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Berliner Morgenpost"
+    },
+    "author": "© dpa-infocom, dpa:230627-99-197198/3 (dpa)",
+    "title": "Online-Handel: Amazon klagt am BGH gegen härtere Wettbewerbskontrolle",
+    "description": "Welche Macht hat Amazon im Online-Einzelhandel? Extrem viel, meint das Bundeskartellamt - und stellt den Konzern unter verschärfte Wettbewerbsaufsicht. In der Folge zieht Amazon vor den BGH.",
+    "url": "https://www.morgenpost.de/wirtschaft/article238797921/Amazon-klagt-am-BGH-gegen-haertere-Wettbewerbskontrolle.html",
+    "urlToImage": "https://img.morgenpost.de/img/wirtschaft/crop238797919/3332608321-w820-cv16_9-q85/Amazon.jpg",
+    "publishedAt": "2023-06-27T03:34:27Z",
+    "content": "Karlsruhe. Amazon wehrt sich am Bundesgerichtshof (BGH) gegen eine Entscheidung des Bundeskartellamts, den Online-Riesen härter in die Mangel zu nehmen. Der Kartellsenat in Karlsruhe verhandelt heute… [+3681 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Careynieuwhof.com"
+    },
+    "author": "Carey Nieuwhof, CareyNieuwhof.com",
+    "title": "Episode 579: Katelyn Beaty on How Christian Celebrities, Personas, Platforms, and Profits Are Harming the Church And What to Do About It",
+    "description": "In Part 2 of our mini-series on Integrity in the Church, Katelyn Beaty talks about the history of the idea of celebrity, how it’s impacted the church, how Billy Graham handled his fame, and how personas, platforms and profits are harming the church, and what …",
+    "url": "https://careynieuwhof.com/episode579/",
+    "urlToImage": "https://149798627.v2.pressablecdn.com/wp-content/uploads/2023/06/CNLP-1200x630-Katelyn-Beaty.jpg",
+    "publishedAt": "2023-06-27T05:01:00Z",
+    "content": "In Part 2 of our mini-series on Integrity in the Church, Katelyn Beaty talks about the history of the idea of celebrity, how it’s impacted the church, how Billy Graham handled his fame, and how perso… [+4551 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "Appleの秘密のアリゾナ自動車試験場が明らかに、証拠がApple Carの開発を示唆",
+    "description": "アリゾナ州にある謎の自動車試験場が、自律型車両のテストに関してAppleに所属している可能性があり、新たな証拠がそれを裏付けるかもしれません 噂や無数の特許からわかるように、Appleは「Apple Car」と呼ばれる自律型車両の開発に取り組んでいるとされています、しかし、このようなプロジェクトは秘密にするのが難しく、特に道路でのテストが必要な場合はなおさらです Car and Driverの報告によれば、以前に「Route 14 Investment Partners」という名前のシェル法人が購入したと噂されて…",
+    "url": "https://minatokobe.com/wp/apple/post-90699.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/Apple-Car_01.jpg",
+    "publishedAt": "2023-06-27T01:34:27Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "iPhoneやApple WatchのApple PayでICOCAが利用可能に、新規契約者入会キャンペーンも",
+    "description": "西日本旅客鉄道株式会社は、ICカード乗車券「ICOCA」がApple Payに6月27日より対応したことを発表しています また、J-WESTカード所有者でポイントが3倍に貯まる、また、新規契約者に入会キャンペーン(※期間は当面の予定)も併せて発表しています Apple PayのICOCAとは？ Apple PayのICOCAは、あなたのiPhoneを使ってどこでも定期券を購入したり、並ばずにチャージしたり、お買い物もできるという便利なサービスです。これにより、あなたの日常はよりスムーズになります Apple Pa…",
+    "url": "https://minatokobe.com/wp/apple/post-90695.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/ICOCA_01.jpg",
+    "publishedAt": "2023-06-27T01:17:42Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "Apple Vision Pro第1世代の課題と将来のエキサイティングなアップグレード",
+    "description": "Apple Vision Proの第1世代は2024年初頭にリリース予定ですが、BloombergのMark Gurman氏は既にPower Onニュースレターで、第2世代にはいくつかの機能が独占され、第1世代の所有者が直面する問題の改善が行われると報告しています 機能に関して、Gurman氏によると次の3つの主要な機能は次世代のApple Vision Proにのみ搭載されるとのことです： Apple Vision Proがワイヤレスで接続された場合に複数のMacデスクトップ画面を表示できる機能、現時点では一度…",
+    "url": "https://minatokobe.com/wp/apple-vision-pro/post-90706.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/Apple-Vision-Pro-0627.jpg",
+    "publishedAt": "2023-06-27T02:08:00Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "iPhoneのセキュリティを解説、Appleのロックダウンモードと専門家の推奨事項を理解する",
+    "description": "先週、オーストラリアの首相はiPhoneの利用者に対してセキュリティ上のアドバイスをしました。毎晩5分間、iPhoneの電源を切るようにすべきだと提案しました、一見すると、これはiPhoneユーザーにとって無害なアドバイスのように思えますが、実際にはより微妙な状況です 実際には、このような広範で一般的な発言は、ほとんどの人にとってマイナスの影響を及ぼす可能性があります、その理由を説明します オーストラリアの首相であるAnthony Albaneseは先週、国の「サイバーリスクを阻止する」必要性を強調する中で、この…",
+    "url": "https://minatokobe.com/wp/apple/post-90691.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/Lockdown-Mode_01.jpg",
+    "publishedAt": "2023-06-27T00:38:36Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "YouTube、クリエイターが完璧なサムネイルを選びやすくする",
+    "description": "近いうちに、最新のYouTubeビデオの重要なサムネイルを選ぶプロセスがずっと簡単になるかもしれません YouTubeは「テスト＆比較」という機能の早期テストを行っており、クリエイターは1つのビデオに最大3つのサムネイルをアップロードして、YouTubeが裏側で実験を行い、最も優れたものを見つけることができます YouTubeはビデオの発表で、現在「数百人のクリエイター」を対象にこの機能をテストしていると述べていますが、来月にはさらに数千人にベータ版を提供し、来年の大規模なリリースに向けて展開する予定です You…",
+    "url": "https://minatokobe.com/wp/it-information/post-90703.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/YouTube-thumbnail_01.jpg",
+    "publishedAt": "2023-06-27T01:49:12Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "ズームアウトして可能性を探求、Midjourneyの最新AI機能が芸術的な表現を新たな領域へ",
+    "description": "OpenAIのChatGPTのような生成型AI製品であるChatGPTについて話す際には、テキストのプロンプトを使って驚くべきイメージを生成することができる生成型AIソフトウェアについて触れずには語れません Midjourneyは、今年の生成型AIのハイライトの一つであり、このプログラムは驚くべき画像をさらに生成するための大規模なズームアウトアップデートを受けました 新機能の名前からも分かる通り、Midjourney v5.2では、作成した画像から離れて追加のコンテンツを生成するために、その画像をズームアウトする…",
+    "url": "https://minatokobe.com/wp/ai/ai-tools/post-90711.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/06/Generative-Fill_01.jpg",
+    "publishedAt": "2023-06-27T02:40:48Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    }
+    ]
+    }
+    Get the current top headlines for a country or category
+    News API is great as a data source for news tickers and other applications where you want to show your users live headlines. We track headlines in 7 categories across over 50 countries, and at over a hundred top publications and blogs, in near real time.
+    
+    Let's make a request to get live top headlines in the US right now. We'll use the /top-headlines endpoint for this.
+    
+    This returns a JSON object with the results in an array we can iterate over.
+    
+    For more information about the /top-headlines endpoint, including valid parameters for focusing on specific countries and categories, see the Top Headlines endpoint reference.
+    
+    Definition
