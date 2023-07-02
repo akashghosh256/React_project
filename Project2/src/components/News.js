@@ -5,13 +5,16 @@ import React, { Component } from 'react';
 import NewsItem from './NewsItem';
 import Spinner from './Spinner';
 import props from 'prop-types';
+import PropTypes from 'prop-types';
 
 export class News extends Component {
     static defaultProps = {
         category: "general",
+        country :"us",
     }
     static propTypes = {
-        category: props.string,
+        category: PropTypes.string,
+        country: PropTypes.string,
     }
   constructor() {
     super();
@@ -25,8 +28,8 @@ export class News extends Component {
 
   async componentDidMount() {
     // Fetch all articles
-   let url = "https://newsapi.org/v2/everything?domains=wsj.com&apiKey=49ac3f7ae2514722b6940f196c52a708";
-  // let url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=49ac3f7ae2514722b6940f196c52a708"
+
+ let url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=49ac3f7ae2514722b6940f196c52a708`;
   let data = await fetch(url);
     let parsedData = await data.json();
     this.setState({ articles: parsedData.articles, loading: false }); // Update loading state after fetching data
@@ -61,7 +64,7 @@ export class News extends Component {
                   <div className="col-md-4" key={element.url}>
                     <NewsItem
                       title={element.title.slice(0, 44)}
-                      description={element.description.slice(0, 94)}
+                      description={element.description? element.description.slice(0, 94):""}
                       imageUrl={element.urlToImage}
                       newsUrl={element.url}
                     />

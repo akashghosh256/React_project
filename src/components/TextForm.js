@@ -9,7 +9,10 @@ export default function TextForm(props) {
     if (clipboardData && clipboardData.readText) {
     }
       clipboardData.readText().then(text => {
-        setText(text);
+        // setText(text);
+        console.log("On change");
+    setText(text);
+    setOriginalString(text);
       })
     };
 
@@ -17,16 +20,19 @@ export default function TextForm(props) {
     console.log("lowercase was clicked text => " + text);
     let newText = text.toLowerCase();
     setText(newText);
+    setOriginalString(newText);
   };
 
   const handleClearClick = (event) => {
     console.log("clear");
     setText("");
+    setOriginalString("");
   };
   const handleUpClick = (event) => {
     console.log("Uppercase was clicked text => " + text);
     let newText = text.toUpperCase();
     setText(newText);
+    setOriginalString(newText);
    // props.showAlert("Converted to uppercase", "success");
   };
   const handleOnCopy = (event) => {
@@ -37,6 +43,7 @@ export default function TextForm(props) {
   const handleSpace = (event) => {
     console.log("space");
     setText(text.replace(/\s/g, ""));  // \s is used for space and g is used for global
+    setOriginalString(text.replace(/\s/g, ""));
   };
   //  const convertToBold = (event) => {
 
@@ -87,6 +94,7 @@ export default function TextForm(props) {
     );
 
     setText(replacedString);
+    setOriginalString(replacedString);
     props.showAlert("Text Replaced", "success");  // custom alert
   };
 
@@ -135,7 +143,7 @@ export default function TextForm(props) {
 
             <button
             type="button"
-            className="btn btn-primary mt-4 mx-2"
+            className="btn btn-warning mt-4 mx-2"
             onClick={handlePaste}
 
           >
