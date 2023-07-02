@@ -10,7 +10,7 @@ export default function Navbar(props) {
         className={`navbar  navbar-expand navbar-${props.mode} bg-${props.mode}`}
       >
         <div className="container-fluid">
-          <NavLink className="navbar-brand" to="/">
+          <NavLink className="navbar-brand" to="/React_project">
             {props.title}
           </NavLink>
           <button
@@ -27,7 +27,7 @@ export default function Navbar(props) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <NavLink className="nav-link active" aria-current="page" to="/">
+                <NavLink className="nav-link active" aria-current="page" to="/React_project">
                   Home
                 </NavLink>
               </li>
