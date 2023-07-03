@@ -71,7 +71,7 @@ function App() {
      <Routes>
           
           <Route
-            // path="/"
+           
             path="/React_project"
             element={<>
               <Navbar title="WordPlaYer" mode={mode} toggleMode={toggleMode} />
